@@ -1,0 +1,317 @@
+[
+    {
+        "id": 28,
+        "name": "Lesser Healing Potion",
+        "type": "consumable",
+        "rarity": 0,
+        "mod": "vanilla"
+    },
+    {
+        "id": 188,
+        "name": "Healing Potion",
+        "type": "consumable",
+        "rarity": 0,
+        "mod": "vanilla"
+    },
+    {
+        "id": 499,
+        "name": "Greater Healing Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 3544,
+        "name": "Super Healing Potion",
+        "type": "consumable",
+        "rarity": 7,
+        "mod": "vanilla"
+    },
+    {
+        "id": 288,
+        "name": "Ironskin Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 289,
+        "name": "Regeneration Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 290,
+        "name": "Swiftness Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 291,
+        "name": "Gills Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 292,
+        "name": "Night Owl Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 293,
+        "name": "Shine Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 294,
+        "name": "Hunter Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 295,
+        "name": "Gravitation Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 296,
+        "name": "Thorns Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 297,
+        "name": "Water Walking Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 298,
+        "name": "Archery Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 299,
+        "name": "Spelunker Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 300,
+        "name": "Invisibility Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 301,
+        "name": "Featherfall Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 302,
+        "name": "Battle Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 303,
+        "name": "Warmth Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 304,
+        "name": "Obsidian Skin Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 305,
+        "name": "Magic Power Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 306,
+        "name": "Builder Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 307,
+        "name": "Titan Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2322,
+        "name": "Wrath Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2323,
+        "name": "Rage Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2324,
+        "name": "Endurance Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2325,
+        "name": "Lifeforce Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2326,
+        "name": "Inferno Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2327,
+        "name": "Mining Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2344,
+        "name": "Ammo Reservation Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2345,
+        "name": "Flask of Fire",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2346,
+        "name": "Flask of Poison",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2347,
+        "name": "Flask of Party",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2348,
+        "name": "Flask of Cursed Flames",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2349,
+        "name": "Flask of Ichor",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2350,
+        "name": "Flask of Gold",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2351,
+        "name": "Flask of Nanites",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 2997,
+        "name": "Flask of Venom",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "vanilla"
+    },
+    {
+        "id": 4479,
+        "name": "Sake",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 186,
+        "name": "Ammo Box",
+        "type": "buff",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 525,
+        "name": "Sharpening Station",
+        "type": "buff",
+        "rarity": 1,
+        "mod": "vanilla"
+    },
+    {
+        "id": 3199,
+        "name": "Crystal Ball",
+        "type": "buff",
+        "rarity": 0,
+        "mod": "vanilla"
+    },
+    {
+        "id": 3198,
+        "name": "Bewitching Table",
+        "type": "buff",
+        "rarity": 0,
+        "mod": "vanilla"
+    },
+    {
+        "id": 3114,
+        "name": "Slice of Cake",
+        "type": "buff",
+        "rarity": 1,
+        "mod": "vanilla"
+    }
+]

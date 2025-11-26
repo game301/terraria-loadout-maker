@@ -3,66 +3,348 @@
 @tailwind utilities;
 
 @layer base {
-  :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 96.1%;
-    --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 96.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 96.1%;
-    --accent-foreground: 0 0% 9%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
-    --chart-1: 12 76% 61%;
-    --chart-2: 173 58% 39%;
-    --chart-3: 197 37% 24%;
-    --chart-4: 43 74% 66%;
-    --chart-5: 27 87% 67%;
-    --radius: 0.5rem;
-  }
-  .dark {
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 0 0% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 0 0% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 98%;
-    --primary-foreground: 0 0% 9%;
-    --secondary: 0 0% 14.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 0 0% 14.9%;
-    --muted-foreground: 0 0% 63.9%;
-    --accent: 0 0% 14.9%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 14.9%;
-    --input: 0 0% 14.9%;
-    --ring: 0 0% 83.1%;
-    --chart-1: 220 70% 50%;
-    --chart-2: 160 60% 45%;
-    --chart-3: 30 80% 55%;
-    --chart-4: 280 65% 60%;
-    --chart-5: 340 75% 55%;
-  }
+    :root {
+        --background: 0 0% 100%;
+        --foreground: 0 0% 3.9%;
+        --card: 0 0% 98%;
+        --card-foreground: 0 0% 3.9%;
+        --popover: 0 0% 100%;
+        --popover-foreground: 0 0% 3.9%;
+        --primary: 222 47% 50%;
+        --primary-foreground: 0 0% 98%;
+        --secondary: 210 40% 96%;
+        --secondary-foreground: 222 47% 20%;
+        --muted: 210 40% 96%;
+        --muted-foreground: 215 16% 47%;
+        --accent: 210 40% 94%;
+        --accent-foreground: 222 47% 20%;
+        --destructive: 0 84.2% 60.2%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 214 32% 85%;
+        --input: 214 32% 85%;
+        --ring: 222 47% 50%;
+        --chart-1: 12 76% 61%;
+        --chart-2: 173 58% 39%;
+        --chart-3: 197 37% 24%;
+        --chart-4: 43 74% 66%;
+        --chart-5: 27 87% 67%;
+        --radius: 0.5rem;
+    }
+    .dark {
+        --background: 222 47% 11%;
+        --foreground: 210 40% 98%;
+        --card: 222 47% 15%;
+        --card-foreground: 210 40% 98%;
+        --popover: 222 47% 11%;
+        --popover-foreground: 210 40% 98%;
+        --primary: 217 91% 60%;
+        --primary-foreground: 222 47% 11%;
+        --secondary: 217 33% 17%;
+        --secondary-foreground: 210 40% 98%;
+        --muted: 223 47% 20%;
+        --muted-foreground: 215 20% 65%;
+        --accent: 217 33% 17%;
+        --accent-foreground: 210 40% 98%;
+        --destructive: 0 62.8% 30.6%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 217 33% 25%;
+        --input: 217 33% 25%;
+        --ring: 224 76% 48%;
+        --chart-1: 220 70% 50%;
+        --chart-2: 160 60% 45%;
+        --chart-3: 30 80% 55%;
+        --chart-4: 280 65% 60%;
+        --chart-5: 340 75% 55%;
+    }
 }
 
 @layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
+    * {
+        @apply border-border;
+    }
+    body {
+        @apply bg-background text-foreground;
+    }
+}
+
+/* Terraria-style inventory slots */
+@layer components {
+    .inventory-slot {
+        @apply relative w-14 h-14 border-2 rounded cursor-pointer transition-all;
+        background: hsl(var(--background));
+        border-color: hsl(var(--border));
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+        image-rendering: pixelated;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: crisp-edges;
+    }
+
+    .inventory-slot:hover {
+        border-color: hsl(var(--primary));
+    }
+
+    .inventory-slot-filled {
+        background: hsl(var(--muted));
+        border-color: hsl(var(--border));
+    }
+
+    .inventory-slot-empty {
+        @apply flex items-center justify-center;
+    }
+
+    .inventory-slot-empty::after {
+        content: "+";
+        @apply text-2xl opacity-30;
+        color: hsl(var(--muted-foreground));
+    }
+
+    .inventory-slot:hover .inventory-slot-empty::after {
+        @apply opacity-60;
+    }
+
+    /* Terraria-style panels */
+    .terraria-panel {
+        @apply rounded-lg border-2 p-4;
+        background: hsl(var(--card));
+        border-color: hsl(var(--border));
+        box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.05);
+    }
+
+    /* Terraria-style buttons */
+    .terraria-btn {
+        @apply px-6 py-3 rounded font-bold transition-all uppercase tracking-wide;
+        background: hsl(var(--primary));
+        color: hsl(var(--primary-foreground));
+        border: 2px solid hsl(var(--primary));
+    }
+
+    .terraria-btn:hover {
+        opacity: 0.9;
+    }
+
+    .terraria-btn-secondary {
+        background: hsl(var(--secondary));
+        color: hsl(var(--secondary-foreground));
+        border-color: hsl(var(--secondary));
+    }
+
+    /* Rarity colors */
+    .rarity-0 {
+        border-color: #9ca3af;
+    } /* Gray */
+    .rarity-1 {
+        border-color: #60a5fa;
+    } /* Blue */
+    .rarity-2 {
+        border-color: #34d399;
+    } /* Green */
+    .rarity-3 {
+        border-color: #f97316;
+    } /* Orange */
+    .rarity-4 {
+        border-color: #ef4444;
+    } /* Red */
+    .rarity-5 {
+        border-color: #ec4899;
+    } /* Pink */
+    .rarity-6 {
+        border-color: #a855f7;
+    } /* Purple */
+    .rarity-7 {
+        border-color: #14b8a6;
+    } /* Cyan */
+    .rarity-8 {
+        border-color: #fbbf24;
+    } /* Yellow */
+    .rarity-9 {
+        border-color: #10b981;
+    } /* Lime */
+    .rarity-10 {
+        border-color: #f59e0b;
+    } /* Amber */
+    .rarity-11 {
+        border-color: #f59e0b;
+    } /* Rainbow */
+
+    /* Pixelated font effect */
+    .pixel-text {
+        font-family: "Courier New", monospace;
+        image-rendering: pixelated;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    }
+
+    /* Starry background */
+    .starry-bg {
+        background: radial-gradient(2px 2px at 20% 30%, white, transparent),
+            radial-gradient(2px 2px at 60% 70%, white, transparent),
+            radial-gradient(1px 1px at 50% 50%, white, transparent),
+            radial-gradient(1px 1px at 80% 10%, white, transparent),
+            radial-gradient(2px 2px at 90% 60%, white, transparent),
+            radial-gradient(1px 1px at 33% 80%, white, transparent),
+            linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%);
+        background-size: 200% 200%;
+    }
+
+    /* Weapon slots - circular with borders */
+    .weapon-slot {
+        @apply relative cursor-pointer transition-all;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        background: hsl(var(--background));
+        border: 3px solid hsl(var(--border));
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+        image-rendering: pixelated;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: crisp-edges;
+    }
+
+    @media (min-width: 640px) {
+        .weapon-slot {
+            width: 140px;
+            height: 140px;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .weapon-slot {
+            width: 160px;
+            height: 160px;
+        }
+    }
+
+    .weapon-slot:hover {
+        border-color: hsl(var(--primary));
+    }
+
+    .weapon-slot-filled {
+        background: hsl(var(--muted));
+        border-color: hsl(var(--border));
+    }
+
+    /* Green variant for special weapons */
+    .weapon-slot-green {
+        border-color: hsl(var(--border));
+    }
+
+    .weapon-slot-green:hover {
+        border-color: hsl(var(--primary));
+    }
+
+    /* Accessory slots - circular with borders */
+    .accessory-slot {
+        @apply relative cursor-pointer transition-all;
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        background: hsl(var(--background));
+        border: 3px solid hsl(var(--border));
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+        image-rendering: pixelated;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: crisp-edges;
+    }
+
+    @media (min-width: 640px) {
+        .accessory-slot {
+            width: 70px;
+            height: 70px;
+        }
+    }
+
+    @media (min-width: 1024px) {
+        .accessory-slot {
+            width: 84px;
+            height: 84px;
+        }
+    }
+
+    .accessory-slot:hover {
+        border-color: hsl(var(--primary));
+    }
+
+    .accessory-slot-filled {
+        background: hsl(var(--muted));
+    }
+
+    /* Rarity color variants - removed glow effects */
+    .rarity-yellow,
+    .rarity-purple,
+    .rarity-pink,
+    .rarity-lime,
+    .rarity-cyan,
+    .rarity-orange {
+        border-color: hsl(var(--border));
+    }
+
+    .rarity-yellow:hover,
+    .rarity-purple:hover,
+    .rarity-pink:hover,
+    .rarity-lime:hover,
+    .rarity-cyan:hover,
+    .rarity-orange:hover {
+        border-color: hsl(var(--primary));
+    }
+
+    /* Terraria-themed background */
+    .terraria-bg {
+        background: hsl(var(--background));
+    }
+
+    /* Dark mode specific card styles */
+    .dark .card-dark {
+        background: linear-gradient(to bottom, #1a1f3a, #0f1428);
+        border-color: #2a3a5a;
+    }
+
+    .dark .card-dark-hover:hover {
+        border-color: rgb(6 182 212);
+    }
+
+    /* Light mode specific card styles */
+    .card-dark {
+        background: linear-gradient(to bottom, #f8fafc, #f1f5f9);
+        border-color: #cbd5e1;
+    }
+
+    .card-dark-hover:hover {
+        border-color: rgb(14 165 233);
+    }
+
+    /* Border colors for light/dark mode */
+    .dark .border-dark {
+        border-color: #2a3a5a;
+    }
+
+    .border-dark {
+        border-color: #cbd5e1;
+    }
+
+    /* Text colors */
+    .dark .text-light-dark {
+        color: #e2e8f0;
+    }
+
+    .text-light-dark {
+        color: #1e293b;
+    }
+
+    .dark .text-muted-dark {
+        color: #94a3b8;
+    }
+
+    .text-muted-dark {
+        color: #64748b;
+    }
+
+    /* Slot backgrounds */
+    .dark .slot-bg {
+        background: linear-gradient(to bottom right, #2a1a3a, #1a0a2a);
+        border-color: #4a3a6a;
+    }
+
+    .slot-bg {
+        background: linear-gradient(to bottom right, #f1f5f9, #e2e8f0);
+        border-color: #cbd5e1;
+    }
 }

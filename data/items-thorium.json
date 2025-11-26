@@ -1,0 +1,304 @@
+[
+    {
+        "id": 200001,
+        "name": "Technique - Shadowflare",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 1,
+        "damage": 12,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200002,
+        "name": "Storm Knife",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 2,
+        "damage": 18,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200003,
+        "name": "Pneumatic Dart Gun",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 1,
+        "damage": 10,
+        "weaponClass": "ranged"
+    },
+    {
+        "id": 200004,
+        "name": "Boom Shuriken",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 2,
+        "damage": 22,
+        "weaponClass": "ranged"
+    },
+    {
+        "id": 200005,
+        "name": "Incinerite Blade",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 3,
+        "damage": 35,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200010,
+        "name": "Air Walkers",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 1,
+        "weaponClass": "magic"
+    },
+    {
+        "id": 200011,
+        "name": "Icy Pickaxe",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 2,
+        "damage": 15,
+        "weaponClass": "magic"
+    },
+    {
+        "id": 200012,
+        "name": "Whispering Tentacles",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 3,
+        "damage": 28,
+        "weaponClass": "magic"
+    },
+    {
+        "id": 200020,
+        "name": "Wondrous Wand",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 1,
+        "damage": 9,
+        "weaponClass": "summoner"
+    },
+    {
+        "id": 200021,
+        "name": "Wyvern Caller",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 2,
+        "damage": 14,
+        "weaponClass": "summoner"
+    },
+    {
+        "id": 200022,
+        "name": "Life Quartz Claymore",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 3,
+        "damage": 42,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200050,
+        "name": "Dread Fork",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 4,
+        "damage": 55,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200051,
+        "name": "Malicious Pike",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 5,
+        "damage": 80,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200052,
+        "name": "Mjolnir",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 8,
+        "damage": 140,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200053,
+        "name": "Dragon's Fury",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 7,
+        "damage": 120,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200060,
+        "name": "Terra Knuckle",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 5,
+        "damage": 70,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200061,
+        "name": "Celestial Blade",
+        "mod": "thorium",
+        "type": "weapon",
+        "rarity": 9,
+        "damage": 160,
+        "weaponClass": "melee"
+    },
+    {
+        "id": 200100,
+        "name": "Bronze Helmet",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 0,
+        "defense": 2,
+        "armorType": "helmet"
+    },
+    {
+        "id": 200101,
+        "name": "Bronze Breastplate",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 0,
+        "defense": 3,
+        "armorType": "chestplate"
+    },
+    {
+        "id": 200102,
+        "name": "Bronze Greaves",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 0,
+        "defense": 2,
+        "armorType": "leggings"
+    },
+    {
+        "id": 200110,
+        "name": "Life-Bloom Helmet",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 3,
+        "defense": 5,
+        "armorType": "helmet"
+    },
+    {
+        "id": 200111,
+        "name": "Life-Bloom Breastplate",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 3,
+        "defense": 9,
+        "armorType": "chestplate"
+    },
+    {
+        "id": 200112,
+        "name": "Life-Bloom Leggings",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 3,
+        "defense": 7,
+        "armorType": "leggings"
+    },
+    {
+        "id": 200120,
+        "name": "Durasteel Helmet",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 4,
+        "defense": 9,
+        "armorType": "helmet"
+    },
+    {
+        "id": 200121,
+        "name": "Durasteel Breastplate",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 4,
+        "defense": 16,
+        "armorType": "chestplate"
+    },
+    {
+        "id": 200122,
+        "name": "Durasteel Greaves",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 4,
+        "defense": 11,
+        "armorType": "leggings"
+    },
+    {
+        "id": 200130,
+        "name": "Whispering Hood",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 7,
+        "defense": 14,
+        "armorType": "helmet"
+    },
+    {
+        "id": 200131,
+        "name": "Whispering Garb",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 7,
+        "defense": 22,
+        "armorType": "chestplate"
+    },
+    {
+        "id": 200132,
+        "name": "Whispering Leggings",
+        "mod": "thorium",
+        "type": "armor",
+        "rarity": 7,
+        "defense": 18,
+        "armorType": "leggings"
+    },
+    {
+        "id": 200200,
+        "name": "Ring of Unity",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 2
+    },
+    {
+        "id": 200201,
+        "name": "Weighted Ring",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 3
+    },
+    {
+        "id": 200202,
+        "name": "Eye of the Storm",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 5
+    },
+    {
+        "id": 200203,
+        "name": "Terrarium Defender",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 7
+    },
+    {
+        "id": 200204,
+        "name": "Dragon Flame Sheath",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 8
+    },
+    {
+        "id": 200205,
+        "name": "Celestial Aura",
+        "mod": "thorium",
+        "type": "accessory",
+        "rarity": 9
+    }
+]

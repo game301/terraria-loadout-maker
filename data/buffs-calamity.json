@@ -1,0 +1,177 @@
+[
+    {
+        "id": 10001,
+        "name": "Cadance Potion",
+        "type": "consumable",
+        "rarity": 7,
+        "mod": "calamity"
+    },
+    {
+        "id": 10002,
+        "name": "Gravity Normalizer Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10003,
+        "name": "Zen Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10004,
+        "name": "Photosynthesis Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10005,
+        "name": "Bounding Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10006,
+        "name": "Soaring Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10007,
+        "name": "Omniscience",
+        "type": "consumable",
+        "rarity": 9,
+        "mod": "calamity"
+    },
+    {
+        "id": 10008,
+        "name": "Triumph",
+        "type": "consumable",
+        "rarity": 9,
+        "mod": "calamity"
+    },
+    {
+        "id": 10009,
+        "name": "Fabsol's Vodka",
+        "type": "consumable",
+        "rarity": 5,
+        "mod": "calamity"
+    },
+    {
+        "id": 10010,
+        "name": "Star Beam Rye",
+        "type": "consumable",
+        "rarity": 7,
+        "mod": "calamity"
+    },
+    {
+        "id": 10011,
+        "name": "Calcium Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10012,
+        "name": "Draconic Elixir",
+        "type": "consumable",
+        "rarity": 5,
+        "mod": "calamity"
+    },
+    {
+        "id": 10013,
+        "name": "Yharim's Stimulants",
+        "type": "consumable",
+        "rarity": 9,
+        "mod": "calamity"
+    },
+    {
+        "id": 10014,
+        "name": "Titan Scale Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "calamity"
+    },
+    {
+        "id": 10015,
+        "name": "Anechoic Coating",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "calamity"
+    },
+    {
+        "id": 10016,
+        "name": "Tesla Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "calamity"
+    },
+    {
+        "id": 10017,
+        "name": "Penumbra Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "calamity"
+    },
+    {
+        "id": 10018,
+        "name": "Profaned Rage Potion",
+        "type": "consumable",
+        "rarity": 7,
+        "mod": "calamity"
+    },
+    {
+        "id": 10019,
+        "name": "Holy Wrath Potion",
+        "type": "consumable",
+        "rarity": 7,
+        "mod": "calamity"
+    },
+    {
+        "id": 10020,
+        "name": "Zerg Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "calamity"
+    },
+    {
+        "id": 10021,
+        "name": "Flask of Brimstone",
+        "type": "consumable",
+        "rarity": 5,
+        "mod": "calamity"
+    },
+    {
+        "id": 10022,
+        "name": "Flask of Crumbling",
+        "type": "consumable",
+        "rarity": 5,
+        "mod": "calamity"
+    },
+    {
+        "id": 10023,
+        "name": "Bloodfin Boost",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    },
+    {
+        "id": 10024,
+        "name": "Ceaseless Hunger Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "calamity"
+    },
+    {
+        "id": 10025,
+        "name": "Sulphurous Brew",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "calamity"
+    }
+]

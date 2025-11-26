@@ -1,0 +1,382 @@
+[
+  {
+    "id": 100001,
+    "name": "Mandible Claws",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 1,
+    "damage": 11,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100002,
+    "name": "Lionfish",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 1,
+    "damage": 13,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100003,
+    "name": "Sea's Searing",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 2,
+    "damage": 42,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100004,
+    "name": "Riptide",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 3,
+    "damage": 45,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100005,
+    "name": "Ball O' Fugu",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 3,
+    "damage": 50,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100010,
+    "name": "Acidic Rain Barrel",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 1,
+    "damage": 9,
+    "weaponClass": "ranged"
+  },
+  {
+    "id": 100011,
+    "name": "Seabow",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 2,
+    "damage": 19,
+    "weaponClass": "ranged"
+  },
+  {
+    "id": 100012,
+    "name": "Clam Crusher",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 2,
+    "damage": 22,
+    "weaponClass": "ranged"
+  },
+  {
+    "id": 100013,
+    "name": "Brackish Flask",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 3,
+    "damage": 35,
+    "weaponClass": "ranged"
+  },
+  {
+    "id": 100020,
+    "name": "Seething Discharge",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 1,
+    "damage": 8,
+    "weaponClass": "magic"
+  },
+  {
+    "id": 100021,
+    "name": "Eutrophic Scimitar",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 2,
+    "damage": 18,
+    "weaponClass": "magic"
+  },
+  {
+    "id": 100022,
+    "name": "Kelvin Catalyst",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 3,
+    "damage": 29,
+    "weaponClass": "magic"
+  },
+  {
+    "id": 100023,
+    "name": "Forbidden Sun",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 3,
+    "damage": 32,
+    "weaponClass": "magic"
+  },
+  {
+    "id": 100030,
+    "name": "Herring Staff",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 1,
+    "damage": 10,
+    "weaponClass": "summoner"
+  },
+  {
+    "id": 100031,
+    "name": "Scab Ripper",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 2,
+    "damage": 15,
+    "weaponClass": "summoner"
+  },
+  {
+    "id": 100032,
+    "name": "Black Hawk Remote",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 3,
+    "damage": 25,
+    "weaponClass": "summoner"
+  },
+  {
+    "id": 100050,
+    "name": "Bladecrest Oathsword",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 4,
+    "damage": 62,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100051,
+    "name": "True Forbidden Oathblade",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 5,
+    "damage": 88,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100052,
+    "name": "Tears of Heaven",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 6,
+    "damage": 120,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100053,
+    "name": "The Ballista",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 7,
+    "damage": 155,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100054,
+    "name": "Murasama",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 10,
+    "damage": 200,
+    "weaponClass": "melee"
+  },
+  {
+    "id": 100060,
+    "name": "Shellfish Staff",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 4,
+    "damage": 45,
+    "weaponClass": "summoner"
+  },
+  {
+    "id": 100061,
+    "name": "Entropy's Vigil",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 8,
+    "damage": 100,
+    "weaponClass": "summoner"
+  },
+  {
+    "id": 100062,
+    "name": "Cosmic Immaterializer",
+    "mod": "calamity",
+    "type": "weapon",
+    "rarity": 10,
+    "damage": 180,
+    "weaponClass": "summoner"
+  },
+  {
+    "id": 100100,
+    "name": "Sulfurous Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 1,
+    "defense": 3,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100101,
+    "name": "Sulfurous Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 1,
+    "defense": 4,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100102,
+    "name": "Sulfurous Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 1,
+    "defense": 3,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100110,
+    "name": "Aerospec Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 4,
+    "defense": 6,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100111,
+    "name": "Aerospec Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 4,
+    "defense": 15,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100112,
+    "name": "Aerospec Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 4,
+    "defense": 10,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100120,
+    "name": "Statigel Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 5,
+    "defense": 8,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100121,
+    "name": "Statigel Armor",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 5,
+    "defense": 18,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100122,
+    "name": "Statigel Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 5,
+    "defense": 12,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100130,
+    "name": "Demonshade Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 10,
+    "defense": 26,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100131,
+    "name": "Demonshade Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 10,
+    "defense": 40,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100132,
+    "name": "Demonshade Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 10,
+    "defense": 32,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100200,
+    "name": "Luxor's Gift",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 3
+  },
+  {
+    "id": 100201,
+    "name": "Counter Scarf",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 5
+  },
+  {
+    "id": 100202,
+    "name": "Asgardian Aegis",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 7
+  },
+  {
+    "id": 100203,
+    "name": "Elemental Gauntlet",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 8
+  },
+  {
+    "id": 100204,
+    "name": "The Sponge",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 8
+  },
+  {
+    "id": 100205,
+    "name": "Rampart of Deities",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 10
+  },
+  {
+    "id": 100206,
+    "name": "Asgard's Valor",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 10
+  },
+  {
+    "id": 100207,
+    "name": "Celestial Jewel",
+    "mod": "calamity",
+    "type": "accessory",
+    "rarity": 11
+  }
+]

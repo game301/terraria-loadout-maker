@@ -1,0 +1,79 @@
+[
+    {
+        "id": 200001,
+        "name": "The Grand Thunder Bird",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 1
+    },
+    {
+        "id": 200002,
+        "name": "Queen Jellyfish",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 2
+    },
+    {
+        "id": 200003,
+        "name": "Viscount",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 3
+    },
+    {
+        "id": 200004,
+        "name": "Granite Energy Storm",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 4
+    },
+    {
+        "id": 200005,
+        "name": "Buried Champion",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 5
+    },
+    {
+        "id": 200006,
+        "name": "Star Scouter",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 6
+    },
+    {
+        "id": 200007,
+        "name": "Borean Strider",
+        "mod": "thorium",
+        "progression": "pre-hardmode",
+        "order": 7
+    },
+    {
+        "id": 200008,
+        "name": "Fallen Beholder",
+        "mod": "thorium",
+        "progression": "hardmode",
+        "order": 8
+    },
+    {
+        "id": 200009,
+        "name": "Lich",
+        "mod": "thorium",
+        "progression": "hardmode",
+        "order": 9
+    },
+    {
+        "id": 200010,
+        "name": "Forgotten One",
+        "mod": "thorium",
+        "progression": "hardmode",
+        "order": 10
+    },
+    {
+        "id": 200011,
+        "name": "The Primordials",
+        "mod": "thorium",
+        "progression": "post-moon-lord",
+        "order": 11
+    }
+]

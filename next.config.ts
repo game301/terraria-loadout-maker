@@ -1,7 +1,7 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from "next"
 
 const nextConfig: NextConfig = {
-  cacheComponents: true,
-};
+    cacheComponents: false, // Disable for dynamic routes with auth
+}
 
-export default nextConfig;
+export default nextConfig

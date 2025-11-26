@@ -1,0 +1,191 @@
+[
+    {
+        "id": 100001,
+        "name": "Giant Clam",
+        "mod": "calamity",
+        "progression": "pre-hardmode",
+        "order": 1
+    },
+    {
+        "id": 100002,
+        "name": "Desert Scourge",
+        "mod": "calamity",
+        "progression": "pre-hardmode",
+        "order": 2
+    },
+    {
+        "id": 100003,
+        "name": "Crabulon",
+        "mod": "calamity",
+        "progression": "pre-hardmode",
+        "order": 3
+    },
+    {
+        "id": 100004,
+        "name": "The Hive Mind",
+        "mod": "calamity",
+        "progression": "pre-hardmode",
+        "order": 4
+    },
+    {
+        "id": 100005,
+        "name": "The Perforators",
+        "mod": "calamity",
+        "progression": "pre-hardmode",
+        "order": 4
+    },
+    {
+        "id": 100006,
+        "name": "The Slime God",
+        "mod": "calamity",
+        "progression": "pre-hardmode",
+        "order": 5
+    },
+    {
+        "id": 100007,
+        "name": "Cryogen",
+        "mod": "calamity",
+        "progression": "hardmode",
+        "order": 6
+    },
+    {
+        "id": 100008,
+        "name": "Aquatic Scourge",
+        "mod": "calamity",
+        "progression": "hardmode",
+        "order": 7
+    },
+    {
+        "id": 100009,
+        "name": "Brimstone Elemental",
+        "mod": "calamity",
+        "progression": "hardmode",
+        "order": 8
+    },
+    {
+        "id": 100010,
+        "name": "Calamitas Clone",
+        "mod": "calamity",
+        "progression": "hardmode",
+        "order": 9
+    },
+    {
+        "id": 100011,
+        "name": "Leviathan and Anahita",
+        "mod": "calamity",
+        "progression": "post-plantera",
+        "order": 10
+    },
+    {
+        "id": 100012,
+        "name": "Astrum Aureus",
+        "mod": "calamity",
+        "progression": "post-plantera",
+        "order": 11
+    },
+    {
+        "id": 100013,
+        "name": "The Plaguebringer Goliath",
+        "mod": "calamity",
+        "progression": "post-plantera",
+        "order": 12
+    },
+    {
+        "id": 100014,
+        "name": "Ravager",
+        "mod": "calamity",
+        "progression": "post-golem",
+        "order": 13
+    },
+    {
+        "id": 100015,
+        "name": "Astrum Deus",
+        "mod": "calamity",
+        "progression": "post-golem",
+        "order": 14
+    },
+    {
+        "id": 100016,
+        "name": "Profaned Guardians",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 15
+    },
+    {
+        "id": 100017,
+        "name": "Dragonfolly",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 16
+    },
+    {
+        "id": 100018,
+        "name": "Providence, the Profaned Goddess",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 17
+    },
+    {
+        "id": 100019,
+        "name": "Storm Weaver",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 18
+    },
+    {
+        "id": 100020,
+        "name": "Ceaseless Void",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 18
+    },
+    {
+        "id": 100021,
+        "name": "Signus, Envoy of the Devourer",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 18
+    },
+    {
+        "id": 100022,
+        "name": "Polterghast",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 19
+    },
+    {
+        "id": 100023,
+        "name": "The Old Duke",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 20
+    },
+    {
+        "id": 100024,
+        "name": "The Devourer of Gods",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 21
+    },
+    {
+        "id": 100025,
+        "name": "Yharon, Dragon of Rebirth",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 25
+    },
+    {
+        "id": 100026,
+        "name": "Exo Mechs",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 23
+    },
+    {
+        "id": 100027,
+        "name": "Supreme Calamitas",
+        "mod": "calamity",
+        "progression": "post-moon-lord",
+        "order": 24
+    }
+]

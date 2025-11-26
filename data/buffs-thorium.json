@@ -1,0 +1,142 @@
+[
+    {
+        "id": 30001,
+        "name": "Aquatic Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30002,
+        "name": "Damage Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30003,
+        "name": "Critical Strike Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30004,
+        "name": "Warding Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30005,
+        "name": "Mana Flux Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30006,
+        "name": "Might Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30007,
+        "name": "Shadow Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30008,
+        "name": "Dream Weaver Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "thorium"
+    },
+    {
+        "id": 30009,
+        "name": "Eye Drops",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30010,
+        "name": "Sugar Rush Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30011,
+        "name": "Molten Fury Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "thorium"
+    },
+    {
+        "id": 30012,
+        "name": "Gleaming Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "thorium"
+    },
+    {
+        "id": 30013,
+        "name": "Warlock's Brew",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "thorium"
+    },
+    {
+        "id": 30014,
+        "name": "Blood Pact",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "thorium"
+    },
+    {
+        "id": 30015,
+        "name": "Flask of the Light Gods",
+        "type": "consumable",
+        "rarity": 5,
+        "mod": "thorium"
+    },
+    {
+        "id": 30016,
+        "name": "Flask of the Dark Gods",
+        "type": "consumable",
+        "rarity": 5,
+        "mod": "thorium"
+    },
+    {
+        "id": 30017,
+        "name": "Diver's Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30018,
+        "name": "Unstable Potion",
+        "type": "consumable",
+        "rarity": 3,
+        "mod": "thorium"
+    },
+    {
+        "id": 30019,
+        "name": "Confusion Potion",
+        "type": "consumable",
+        "rarity": 1,
+        "mod": "thorium"
+    },
+    {
+        "id": 30020,
+        "name": "Ancient Warding Powder",
+        "type": "buff",
+        "rarity": 3,
+        "mod": "thorium"
+    }
+]

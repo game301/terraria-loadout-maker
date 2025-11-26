@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "King Slime",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "name": "Eye of Cthulhu",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "name": "Brain of Cthulhu",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "name": "Eater of Worlds",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 3
+  },
+  {
+    "id": 5,
+    "name": "Queen Bee",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 4
+  },
+  {
+    "id": 6,
+    "name": "Skeletron",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 5
+  },
+  {
+    "id": 7,
+    "name": "Deerclops",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 6
+  },
+  {
+    "id": 8,
+    "name": "Wall of Flesh",
+    "mod": "vanilla",
+    "progression": "pre-hardmode",
+    "order": 7
+  },
+  {
+    "id": 9,
+    "name": "Queen Slime",
+    "mod": "vanilla",
+    "progression": "hardmode",
+    "order": 8
+  },
+  {
+    "id": 10,
+    "name": "The Twins",
+    "mod": "vanilla",
+    "progression": "hardmode",
+    "order": 9
+  },
+  {
+    "id": 11,
+    "name": "The Destroyer",
+    "mod": "vanilla",
+    "progression": "hardmode",
+    "order": 9
+  },
+  {
+    "id": 12,
+    "name": "Skeletron Prime",
+    "mod": "vanilla",
+    "progression": "hardmode",
+    "order": 9
+  },
+  {
+    "id": 13,
+    "name": "Plantera",
+    "mod": "vanilla",
+    "progression": "post-plantera",
+    "order": 10
+  },
+  {
+    "id": 14,
+    "name": "Golem",
+    "mod": "vanilla",
+    "progression": "post-golem",
+    "order": 11
+  },
+  {
+    "id": 15,
+    "name": "Duke Fishron",
+    "mod": "vanilla",
+    "progression": "post-plantera",
+    "order": 12
+  },
+  {
+    "id": 16,
+    "name": "Empress of Light",
+    "mod": "vanilla",
+    "progression": "post-plantera",
+    "order": 13
+  },
+  {
+    "id": 17,
+    "name": "Lunatic Cultist",
+    "mod": "vanilla",
+    "progression": "post-golem",
+    "order": 14
+  },
+  {
+    "id": 18,
+    "name": "Moon Lord",
+    "mod": "vanilla",
+    "progression": "post-moon-lord",
+    "order": 15
+  }
+]
