@@ -1,12 +1,12 @@
 /**
- * Fetch Calamity and Thorium Mod items
+ * Generate Calamity and Thorium Mod items
  *
- * This script fetches weapon, armor, and accessory data from mod wikis
+ * This script generates weapon, armor, and accessory data from mod wikis
  * and assigns proper non-overlapping IDs:
  * - Calamity: 100,000 - 199,999
  * - Thorium: 200,000 - 299,999
  *
- * Run with: pnpm tsx scripts/fetch-mod-items.ts
+ * Run with: pnpm tsx scripts/generate-mod-items.ts
  */
 
 import * as fs from "fs"
@@ -773,7 +773,7 @@ function getThoriumItems(): TerrariaItem[] {
 // ============================================================================
 
 async function main() {
-    console.log("🚀 Starting mod items fetch...\n")
+    console.log("🚀 Generating modded items...\n")
 
     // Generate Calamity items
     const calamityItems = getCalamityItems()
