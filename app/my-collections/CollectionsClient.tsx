@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import { createClient } from "@/lib/supabase/client"
 import type { User } from "@supabase/supabase-js"
 import Link from "next/link"
+import { PageButton } from "@/components/ui/page-button"
 
 interface Collection {
     id: string
@@ -101,24 +102,24 @@ export default function CollectionsClient({ user }: { user: User }) {
             <div className='max-w-7xl mx-auto w-full p-4'>
                 <div className='mb-6 flex justify-between items-center'>
                     <div>
-                        <h1 className='text-3xl font-bold text-yellow-400 mb-2'>
+                        <h1 className='text-3xl font-bold text-[hsl(var(--page-heading))] mb-2'>
                             My Collections
                         </h1>
-                        <p className='text-gray-400'>
+                        <p className='text-[hsl(var(--page-text-muted))]'>
                             Organize your loadouts into collections
                         </p>
                     </div>
-                    <button
+                    <PageButton
                         onClick={() => setShowCreateForm(!showCreateForm)}
-                        className='px-4 py-2 bg-gradient-to-b from-green-600 to-green-700 hover:from-green-500 hover:to-green-600 border-2 border-green-400 rounded-lg font-semibold text-foreground transition-all'>
-                        {showCreateForm ? "Cancel" : "+ New Collection"}
-                    </button>
+                        variant={showCreateForm ? "secondary" : "primary"}>
+                        {showCreateForm ? "Cancel" : "New Collection"}
+                    </PageButton>
                 </div>
 
                 {/* Create Form */}
                 {showCreateForm && (
-                    <div className='bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-6 mb-6'>
-                        <h2 className='text-xl font-bold text-yellow-400 mb-4'>
+                    <div className='bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] rounded-lg p-6 mb-6'>
+                        <h2 className='text-xl font-bold text-[hsl(var(--card-heading))] mb-4'>
                             Create Collection
                         </h2>
                         <form onSubmit={handleCreate} className='space-y-4'>
@@ -131,7 +132,7 @@ export default function CollectionsClient({ user }: { user: User }) {
                                     value={name}
                                     onChange={(e) => setName(e.target.value)}
                                     placeholder='e.g., Pre-Hardmode Builds'
-                                    className='w-full px-4 py-2 bg-background dark:bg-[#0a0e1f] border-2 border-border dark:border-[#1a2a4a] rounded-lg text-foreground focus:outline-none focus:border-cyan-500'
+                                    className='w-full px-4 py-2 bg-[hsl(var(--input))] border-2 border-[hsl(var(--border))] rounded-lg text-[hsl(var(--foreground))] focus:outline-none focus:border-[hsl(var(--ring))]'
                                     required
                                 />
                             </div>
@@ -146,7 +147,7 @@ export default function CollectionsClient({ user }: { user: User }) {
                                     }
                                     placeholder='Optional description...'
                                     rows={3}
-                                    className='w-full px-4 py-2 bg-background dark:bg-[#0a0e1f] border-2 border-border dark:border-[#1a2a4a] rounded-lg text-foreground focus:outline-none focus:border-cyan-500 resize-none'
+                                    className='w-full px-4 py-2 bg-[hsl(var(--input))] border-2 border-[hsl(var(--border))] rounded-lg text-[hsl(var(--foreground))] focus:outline-none focus:border-[hsl(var(--ring))] resize-none'
                                 />
                             </div>
                             <div className='flex items-center gap-2'>
@@ -161,7 +162,7 @@ export default function CollectionsClient({ user }: { user: User }) {
                                 />
                                 <label
                                     htmlFor='is_public'
-                                    className='text-sm text-gray-400'>
+                                    className='text-sm text-[hsl(var(--page-text-muted))]'>
                                     Make this collection public
                                 </label>
                             </div>
@@ -183,8 +184,8 @@ export default function CollectionsClient({ user }: { user: User }) {
                         Loading...
                     </div>
                 ) : collections.length === 0 ? (
-                    <div className='bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-12 text-center'>
-                        <p className='text-gray-400 mb-4'>
+                    <div className='bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] rounded-lg p-12 text-center'>
+                        <p className='text-[hsl(var(--page-text-muted))] mb-4'>
                             You haven't created any collections yet
                         </p>
                         <button
@@ -201,9 +202,9 @@ export default function CollectionsClient({ user }: { user: User }) {
                                 className='relative group h-full'>
                                 <Link
                                     href={`/my-collections/${collection.id}`}
-                                    className='bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-4 hover:border-cyan-500 transition-colors flex flex-col h-full'>
+                                    className='bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] rounded-lg p-4 hover:border-[hsl(var(--card-hover-border))] transition-colors flex flex-col h-full'>
                                     <div className='flex justify-between items-start mb-3 gap-2'>
-                                        <h3 className='text-lg font-bold text-yellow-400 group-hover:text-yellow-300 transition-colors break-words min-w-0 flex-1'>
+                                        <h3 className='text-lg font-bold text-[hsl(var(--card-heading))] group-hover:text-[hsl(var(--card-hover-border))] transition-colors break-words min-w-0 flex-1'>
                                             {collection.name}
                                         </h3>
                                         {collection.is_public && (
@@ -214,14 +215,14 @@ export default function CollectionsClient({ user }: { user: User }) {
                                     </div>
                                     <div className='mb-3 min-h-[3rem]'>
                                         {collection.description && (
-                                            <p className='text-sm text-gray-700 dark:text-gray-400 line-clamp-2 break-words'>
+                                            <p className='text-sm text-[hsl(var(--page-text-muted))] line-clamp-2 break-words'>
                                                 {collection.description}
                                             </p>
                                         )}
                                     </div>
                                     <div className='mt-auto'>
                                         <div className='flex justify-between items-center text-sm mb-2'>
-                                            <span className='text-gray-700 dark:text-gray-400 flex items-center gap-1'>
+                                            <span className='text-[hsl(var(--page-text-muted))] flex items-center gap-1'>
                                                 📦{" "}
                                                 {collection.loadout_count || 0}{" "}
                                                 {collection.loadout_count === 1
@@ -229,7 +230,7 @@ export default function CollectionsClient({ user }: { user: User }) {
                                                     : "loadouts"}
                                             </span>
                                         </div>
-                                        <div className='text-xs text-gray-600 dark:text-gray-500'>
+                                        <div className='text-xs text-[hsl(var(--page-text-muted))]'>
                                             Created{" "}
                                             {new Date(
                                                 collection.created_at
@@ -237,17 +238,6 @@ export default function CollectionsClient({ user }: { user: User }) {
                                         </div>
                                     </div>
                                 </Link>
-                                <button
-                                    onClick={(e) => {
-                                        e.preventDefault()
-                                        handleDelete(
-                                            collection.id,
-                                            collection.name
-                                        )
-                                    }}
-                                    className='absolute top-4 right-4 px-3 py-1 bg-red-600 hover:bg-red-500 border border-red-400 rounded text-foreground font-medium transition-colors text-sm opacity-0 group-hover:opacity-100 z-10'>
-                                    Delete
-                                </button>
                             </div>
                         ))}
                     </div>

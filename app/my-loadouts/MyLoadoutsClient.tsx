@@ -52,8 +52,8 @@ export default function MyLoadoutsClient({
                     <Link
                         key={loadout.id}
                         href={`/my-loadouts/${loadout.id}`}
-                        className='bg-gradient-to-b card-dark border-2 border-dark hover:border-yellow-500 rounded-lg p-4 transition-all cursor-pointer'>
-                        <h3 className='font-bold text-lg text-yellow-400 mb-2 break-words'>
+                        className='bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] hover:border-[hsl(var(--card-hover-border))] rounded-lg p-4 transition-all cursor-pointer'>
+                        <h3 className='font-bold text-lg text-[hsl(var(--card-heading))] mb-2 break-words'>
                             {loadout.name}
                         </h3>
 
@@ -134,7 +134,7 @@ export default function MyLoadoutsClient({
                                 ))}
                         </div>
 
-                        <div className='flex justify-between items-center text-xs text-gray-400'>
+                        <div className='flex justify-between items-center text-xs text-[hsl(var(--page-text-muted))]'>
                             <div className='flex gap-3'>
                                 <span>{getUsedMods()}</span>
                                 <span>{loadout.weapons.length} weapons</span>
@@ -144,7 +144,7 @@ export default function MyLoadoutsClient({
                             </div>
                         </div>
 
-                        <div className='text-xs text-gray-500 mt-2'>
+                        <div className='text-xs text-[hsl(var(--page-text-muted))] mt-2'>
                             {new Date(loadout.createdAt).toLocaleDateString()}
                         </div>
                     </Link>

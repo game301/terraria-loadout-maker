@@ -5,6 +5,7 @@ import Link from "next/link"
 import { useRouter, useSearchParams } from "next/navigation"
 import { createClient } from "@/lib/supabase/client"
 import { getItemImageUrl, getTextFallbackImage } from "@/lib/terraria/images"
+import { PageButton } from "@/components/ui/page-button"
 
 interface Loadout {
     id: string
@@ -282,14 +283,10 @@ export default function LoadoutsClient({
     return (
         <div className='max-w-7xl mx-auto w-full p-4'>
             <div className='flex flex-col sm:flex-row justify-between items-center gap-4 mb-6'>
-                <h1 className='text-2xl sm:text-3xl font-bold text-foreground'>
+                <h1 className='text-2xl sm:text-3xl font-bold text-[hsl(var(--page-heading))]'>
                     Browse Loadouts
                 </h1>
-                <Link
-                    href='/loadouts/create'
-                    className='px-4 py-2 bg-blue-600/80 hover:bg-blue-700/80 dark:bg-blue-900/50 dark:hover:bg-blue-800/50 border-2 border-blue-500 dark:border-blue-700 rounded text-sm font-semibold text-white dark:text-foreground transition-all whitespace-nowrap'>
-                    Create Loadout
-                </Link>
+                <PageButton href='/loadouts/create'>Create Loadout</PageButton>
             </div>
 
             {/* Search Bar */}
@@ -432,8 +429,8 @@ export default function LoadoutsClient({
                             <Link
                                 key={loadout.id}
                                 href={`/loadouts/${loadout.id}`}
-                                className='block bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-4 hover:border-yellow-500 transition-all cursor-pointer'>
-                                <h3 className='font-bold text-lg text-yellow-400 mb-2 break-words'>
+                                className='block bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] rounded-lg p-4 hover:border-[hsl(var(--card-hover-border))] transition-all cursor-pointer'>
+                                <h3 className='font-bold text-lg text-[hsl(var(--card-heading))] mb-2 break-words'>
                                     {loadout.name}
                                 </h3>
 
@@ -446,7 +443,7 @@ export default function LoadoutsClient({
                                                 loadout.helmet.mod
                                             )}
                                             alt={loadout.helmet.name}
-                                            className='w-10 h-10 object-contain slot-bg border rounded p-1'
+                                            className='w-10 h-10 object-contain bg-[hsl(var(--slot-bg))] border border-[hsl(var(--slot-border))] rounded p-1'
                                             onError={(e) => {
                                                 e.currentTarget.src =
                                                     getTextFallbackImage(
@@ -463,7 +460,7 @@ export default function LoadoutsClient({
                                                 loadout.chest.mod
                                             )}
                                             alt={loadout.chest.name}
-                                            className='w-10 h-10 object-contain slot-bg border rounded p-1'
+                                            className='w-10 h-10 object-contain bg-[hsl(var(--slot-bg))] border border-[hsl(var(--slot-border))] rounded p-1'
                                             onError={(e) => {
                                                 e.currentTarget.src =
                                                     getTextFallbackImage(
@@ -480,7 +477,7 @@ export default function LoadoutsClient({
                                                 loadout.legs.mod
                                             )}
                                             alt={loadout.legs.name}
-                                            className='w-10 h-10 object-contain slot-bg border rounded p-1'
+                                            className='w-10 h-10 object-contain bg-[hsl(var(--slot-bg))] border border-[hsl(var(--slot-border))] rounded p-1'
                                             onError={(e) => {
                                                 e.currentTarget.src =
                                                     getTextFallbackImage(
@@ -501,7 +498,7 @@ export default function LoadoutsClient({
                                                         w.mod
                                                     )}
                                                     alt={w.name}
-                                                    className='w-10 h-10 object-contain slot-bg border rounded p-1'
+                                                    className='w-10 h-10 object-contain bg-[hsl(var(--slot-bg))] border border-[hsl(var(--slot-border))] rounded p-1'
                                                     onError={(e) => {
                                                         e.currentTarget.src =
                                                             getTextFallbackImage(
@@ -513,7 +510,7 @@ export default function LoadoutsClient({
                                             ))}
                                 </div>
 
-                                <div className='flex justify-between items-center text-xs text-gray-400'>
+                                <div className='flex justify-between items-center text-xs text-[hsl(var(--page-text-muted))]'>
                                     <div className='flex gap-3'>
                                         <span>{getUsedMods()}</span>
                                         <span>{weaponCount} weapons</span>
@@ -524,7 +521,7 @@ export default function LoadoutsClient({
                                 </div>
 
                                 <div className='flex justify-between items-center text-xs mt-2'>
-                                    <div className='flex gap-3 text-gray-500'>
+                                    <div className='flex gap-3 text-[hsl(var(--page-text-muted))]'>
                                         <span>
                                             {new Date(
                                                 loadout.created_at
@@ -594,13 +591,15 @@ export default function LoadoutsClient({
             {loading && (
                 <div className='text-center py-8'>
                     <div className='inline-block w-8 h-8 border-4 border-cyan-500 border-t-transparent rounded-full animate-spin'></div>
-                    <p className='text-gray-400 mt-2'>Loading more...</p>
+                    <p className='text-[hsl(var(--page-text-muted))] mt-2'>
+                        Loading more...
+                    </p>
                 </div>
             )}
 
             {/* No more results */}
             {!hasMore && loadouts.length > 0 && (
-                <div className='text-center py-8 text-gray-400'>
+                <div className='text-center py-8 text-[hsl(var(--page-text-muted))]'>
                     No more loadouts to load
                 </div>
             )}
@@ -608,7 +607,7 @@ export default function LoadoutsClient({
             {/* No results */}
             {!loading && loadouts.length === 0 && (
                 <div className='text-center py-12'>
-                    <p className='text-gray-400 text-lg'>
+                    <p className='text-[hsl(var(--page-text-muted))] text-lg'>
                         {searchQuery
                             ? "No loadouts found matching your search"
                             : "No public loadouts yet"}

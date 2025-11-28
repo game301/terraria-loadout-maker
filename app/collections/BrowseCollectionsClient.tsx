@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from "react"
 import Link from "next/link"
+import { PageButton } from "@/components/ui/page-button"
 
 interface Collection {
     id: string
@@ -64,20 +65,18 @@ export default function BrowseCollectionsClient({
                 <div className='mb-6'>
                     <div className='flex justify-between items-start mb-4'>
                         <div>
-                            <h1 className='text-3xl font-bold text-yellow-400 mb-2'>
+                            <h1 className='text-3xl font-bold text-[hsl(var(--page-heading))] mb-2'>
                                 Browse Collections
                             </h1>
-                            <p className='text-gray-700 dark:text-gray-400'>
+                            <p className='text-[hsl(var(--page-text-muted))]'>
                                 Explore public loadout collections from the
                                 community
                             </p>
                         </div>
                         {isAuthenticated && (
-                            <Link
-                                href='/my-collections'
-                                className='px-4 py-2 bg-gradient-to-b from-cyan-600 to-cyan-700 hover:from-cyan-500 hover:to-cyan-600 border-2 border-cyan-400 rounded-lg font-semibold text-foreground transition-all'>
+                            <PageButton href='/my-collections'>
                                 My Collections
-                            </Link>
+                            </PageButton>
                         )}
                     </div>
 
@@ -88,12 +87,12 @@ export default function BrowseCollectionsClient({
                             placeholder='Search collections...'
                             value={searchQuery}
                             onChange={(e) => setSearchQuery(e.target.value)}
-                            className='flex-1 px-4 py-3 bg-background dark:bg-[#0a0e1f] border-2 border-border dark:border-[#1a2a4a] rounded-lg text-foreground text-sm focus:outline-none focus:border-cyan-500 transition-colors'
+                            className='flex-1 px-4 py-3 bg-[hsl(var(--input))] border-2 border-[hsl(var(--border))] rounded-lg text-[hsl(var(--foreground))] text-sm focus:outline-none focus:border-[hsl(var(--ring))] transition-colors'
                         />
                         <select
                             value={sortBy}
                             onChange={(e) => setSortBy(e.target.value as any)}
-                            className='px-4 py-3 bg-background dark:bg-[#0a0e1f] border-2 border-border dark:border-[#1a2a4a] rounded-lg text-foreground text-sm focus:outline-none focus:border-cyan-500 transition-colors cursor-pointer'>
+                            className='px-4 py-3 bg-[hsl(var(--input))] border-2 border-[hsl(var(--border))] rounded-lg text-[hsl(var(--foreground))] text-sm focus:outline-none focus:border-[hsl(var(--ring))] transition-colors cursor-pointer'>
                             <option value='recent'>Most Recent</option>
                             <option value='popular'>Most Popular</option>
                         </select>
@@ -102,8 +101,8 @@ export default function BrowseCollectionsClient({
 
                 {/* Collections Grid */}
                 {filteredCollections.length === 0 ? (
-                    <div className='bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-12 text-center'>
-                        <p className='text-gray-700 dark:text-gray-400 mb-4'>
+                    <div className='bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] rounded-lg p-12 text-center'>
+                        <p className='text-[hsl(var(--page-text-muted))] mb-4'>
                             {searchQuery
                                 ? "No collections found matching your search"
                                 : "No public collections available yet"}
@@ -115,16 +114,16 @@ export default function BrowseCollectionsClient({
                             <Link
                                 key={collection.id}
                                 href={`/collections/${collection.id}`}
-                                className='block bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-4 hover:border-cyan-500 transition-colors group'>
-                                <h3 className='text-lg font-bold text-yellow-400 group-hover:text-yellow-300 mb-2 transition-colors break-words'>
+                                className='block bg-[hsl(var(--card-bg))] border-2 border-[hsl(var(--card-border))] rounded-lg p-4 hover:border-[hsl(var(--card-hover-border))] transition-colors group'>
+                                <h3 className='text-lg font-bold text-[hsl(var(--card-heading))] group-hover:text-[hsl(var(--card-hover-border))] mb-2 transition-colors break-words'>
                                     {collection.name}
                                 </h3>
                                 {collection.description && (
-                                    <p className='text-sm text-gray-700 dark:text-gray-400 mb-3 line-clamp-2 break-words'>
+                                    <p className='text-sm text-[hsl(var(--page-text-muted))] mb-3 line-clamp-2 break-words'>
                                         {collection.description}
                                     </p>
                                 )}
-                                <div className='flex justify-between items-center text-sm text-gray-700 dark:text-gray-400 mb-2'>
+                                <div className='flex justify-between items-center text-sm text-[hsl(var(--page-text-muted))] mb-2'>
                                     <span>
                                         📦 {collection.loadout_count} loadout
                                         {collection.loadout_count !== 1
@@ -151,7 +150,7 @@ export default function BrowseCollectionsClient({
                                             )}
                                     </div>
                                 </div>
-                                <div className='text-xs text-gray-600 dark:text-gray-500'>
+                                <div className='text-xs text-[hsl(var(--page-text-muted))]'>
                                     {new Date(
                                         collection.created_at
                                     ).toLocaleDateString()}
