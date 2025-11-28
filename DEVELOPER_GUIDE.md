@@ -35,7 +35,7 @@ terraria-loadout-maker/
 │   ├── items-{mod}.json  # Item databases by mod
 │   ├── bosses-{mod}.json # Boss databases by mod
 │   ├── buffs-{mod}.json  # Buff/potion databases
-│   └── ammo-{mod}.json   # Ammunition databases
+│   └── ammunition-{mod}.json   # Ammunition databases
 ├── lib/                   # Utility functions and shared logic
 │   ├── supabase/         # Database client configuration
 │   ├── terraria/         # Terraria-specific utilities

@@ -1,0 +1,1847 @@
+[
+  {
+    "id": 100000,
+    "name": "Ancient Shadow Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100001,
+    "name": "Ancient Shadow Scalemail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100002,
+    "name": "Ancient Shadow Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100003,
+    "name": "Platinum Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100004,
+    "name": "Platinum Chainmail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100005,
+    "name": "Platinum Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100006,
+    "name": "Silver Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100007,
+    "name": "Silver Chainmail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100008,
+    "name": "Silver Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100009,
+    "name": "Copper Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100010,
+    "name": "Copper Chainmail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100011,
+    "name": "Copper Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100012,
+    "name": "Desert Prowler Hat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100013,
+    "name": "Desert Prowler Shirt",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100014,
+    "name": "Desert Prowler Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100015,
+    "name": "Wizard Hat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100016,
+    "name": "Mystic Robe",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100017,
+    "name": "Jungle Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100018,
+    "name": "Diamond Robe",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100019,
+    "name": "Wulfrum Hat & Goggles",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100020,
+    "name": "Flinx Fur Coat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100021,
+    "name": "Gladiator Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100022,
+    "name": "Gladiator Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100023,
+    "name": "Gladiator Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100024,
+    "name": "Victide Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100025,
+    "name": "Victide Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100026,
+    "name": "Victide Hermit Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100027,
+    "name": "Victide Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100028,
+    "name": "Sulphurous Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100029,
+    "name": "Sulphurous Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100030,
+    "name": "Sulphurous Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100031,
+    "name": "Molten Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100032,
+    "name": "Molten Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100033,
+    "name": "Molten Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100034,
+    "name": "Crimson Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100035,
+    "name": "Crimson Scalemail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100036,
+    "name": "Crimson Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100037,
+    "name": "Meteor Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100038,
+    "name": "Meteor Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100039,
+    "name": "Obsidian Outlaw Hat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100040,
+    "name": "Obsidian Longcoat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100041,
+    "name": "Obsidian Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100042,
+    "name": "Aerospec Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100043,
+    "name": "Aerospec Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100044,
+    "name": "Aerospec Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100045,
+    "name": "Necro Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100046,
+    "name": "Necro Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100047,
+    "name": "Necro Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100048,
+    "name": "Aerospec Hat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100049,
+    "name": "Aerospec Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100050,
+    "name": "Bee Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100051,
+    "name": "Bee Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100052,
+    "name": "Bee Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100053,
+    "name": "Statigel Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100054,
+    "name": "Statigel Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100055,
+    "name": "Statigel Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100056,
+    "name": "Statigel Cap",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100057,
+    "name": "Statigel Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100058,
+    "name": "Statigel Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100059,
+    "name": "Mollusk Shellplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100060,
+    "name": "Mollusk Shelleggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100061,
+    "name": "Palladium Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100062,
+    "name": "Palladium Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100063,
+    "name": "Palladium Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100064,
+    "name": "Palladium Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100065,
+    "name": "Palladium Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100066,
+    "name": "Spider Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100067,
+    "name": "Spider Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100068,
+    "name": "Spider Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100069,
+    "name": "Titan Heart Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100070,
+    "name": "Titan Heart Boots",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100071,
+    "name": "Mythril Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100072,
+    "name": "Mythril Chainmail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100073,
+    "name": "Mythril Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100074,
+    "name": "Orichalcum Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100075,
+    "name": "Orichalcum Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100076,
+    "name": "Orichalcum Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100077,
+    "name": "Crystal Assassin Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100078,
+    "name": "Crystal Assassin Shirt",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100079,
+    "name": "Crystal Assassin Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100080,
+    "name": "Mythril Hat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100081,
+    "name": "Orichalcum Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100082,
+    "name": "Mythril Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100083,
+    "name": "Orichalcum Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100084,
+    "name": "Squire's Great Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100085,
+    "name": "Squire's Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100086,
+    "name": "Huntress's Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100087,
+    "name": "Adamantite Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100088,
+    "name": "Adamantite Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100089,
+    "name": "Adamantite Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100090,
+    "name": "Titanium Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100091,
+    "name": "Adamantite Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100092,
+    "name": "Adamantite Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100093,
+    "name": "Forbidden Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100094,
+    "name": "Forbidden Robes",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100095,
+    "name": "Forbidden Treads",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100096,
+    "name": "Chlorophyte Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100097,
+    "name": "Chlorophyte Plate Mail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100098,
+    "name": "Chlorophyte Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100099,
+    "name": "Turtle Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100100,
+    "name": "Turtle Scale Mail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100101,
+    "name": "Turtle Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100102,
+    "name": "Chlorophyte Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100103,
+    "name": "Chlorophyte Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100104,
+    "name": "Daedalus Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100105,
+    "name": "Daedalus Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100106,
+    "name": "Daedalus Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100107,
+    "name": "Daedalus Facemask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100108,
+    "name": "Reaver Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100109,
+    "name": "Reaver Scale Mail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100110,
+    "name": "Reaver Cuisses",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100111,
+    "name": "Shroomite Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100112,
+    "name": "Shroomite Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100113,
+    "name": "Shroomite Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100114,
+    "name": "Shroomite Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100115,
+    "name": "Spectre Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100116,
+    "name": "Spectre Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100117,
+    "name": "Spectre Robe",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100118,
+    "name": "Spectre Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100119,
+    "name": "Spooky Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100120,
+    "name": "Spooky Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100121,
+    "name": "Spooky Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100122,
+    "name": "Tiki Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100123,
+    "name": "Tiki Shirt",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100124,
+    "name": "Tiki Pants",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100125,
+    "name": "Fathom Swarmer Visage",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100126,
+    "name": "Fathom Swarmer Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100127,
+    "name": "Fathom Swarmer Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100128,
+    "name": "Umbraphile Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100129,
+    "name": "Umbraphile Boots",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100130,
+    "name": "Reaver Visage",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100131,
+    "name": "Beetle Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100132,
+    "name": "Beetle Scale Mail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100133,
+    "name": "Beetle Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100134,
+    "name": "Plague Reaper Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100135,
+    "name": "Plague Reaper Vest",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100136,
+    "name": "Dark Artist's Hat",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100137,
+    "name": "Dark Artist's Robes",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100138,
+    "name": "Dark Artist's Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100139,
+    "name": "Plaguebringer Visor",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100140,
+    "name": "Hydrothermic Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100141,
+    "name": "Hydrothermic Subligar",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100142,
+    "name": "Valhalla Knight's Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100143,
+    "name": "Valhalla Knight's Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100144,
+    "name": "Valhalla Knight's Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100145,
+    "name": "Red Riding Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100146,
+    "name": "Red Riding Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100147,
+    "name": "Astral Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100148,
+    "name": "Astral Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100149,
+    "name": "Astral Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100150,
+    "name": "Solar Flare Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100151,
+    "name": "Solar Flare Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100152,
+    "name": "Solar Flare Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100153,
+    "name": "Vortex Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100154,
+    "name": "Vortex Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100155,
+    "name": "Vortex Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100156,
+    "name": "Nebula Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100157,
+    "name": "Nebula Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100158,
+    "name": "Nebula Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100159,
+    "name": "Stardust Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100160,
+    "name": "Stardust Plate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100161,
+    "name": "Stardust Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100162,
+    "name": "Empyrean Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100163,
+    "name": "Empyrean Cuisses",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100164,
+    "name": "Tarragon Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100165,
+    "name": "Tarragon Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100166,
+    "name": "Tarragon Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100167,
+    "name": "Tarragon Visage",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100168,
+    "name": "Prismatic Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100169,
+    "name": "Prismatic Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100170,
+    "name": "Tarragon Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100171,
+    "name": "Tarragon Horned Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100172,
+    "name": "Tarragon Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100173,
+    "name": "Bloodflare Ram Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100174,
+    "name": "Bloodflare Body Armor",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100175,
+    "name": "Bloodflare Cuisses",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100176,
+    "name": "Omega Blue Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100177,
+    "name": "Omega Blue Chestplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100178,
+    "name": "Bloodflare Horned Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100179,
+    "name": "Bloodflare Hydra Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100180,
+    "name": "Bloodflare Wyvern Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100181,
+    "name": "Bloodflare Imp Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100182,
+    "name": "God Slayer Horned Greathelm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100183,
+    "name": "God Slayer Chestplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100184,
+    "name": "God Slayer Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100185,
+    "name": "Fearmonger Greathelm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100186,
+    "name": "Fearmonger Plate Mail",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100187,
+    "name": "Fearmonger Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100188,
+    "name": "God Slayer Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100189,
+    "name": "Silva Masked Cap",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100190,
+    "name": "Silva Leggings",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100191,
+    "name": "Silva Horned Hood",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100192,
+    "name": "God Slayer Mask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100193,
+    "name": "Auric Tesla Royal Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100194,
+    "name": "Auric Tesla Body Armor",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100195,
+    "name": "Auric Tesla Cuisses",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  },
+  {
+    "id": 100196,
+    "name": "Gem Tech Headgear",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100197,
+    "name": "Gem Tech Body Armor",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100198,
+    "name": "Auric Tesla Hooded Facemask",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100199,
+    "name": "Auric Tesla Wire-Hemmed Visage",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100200,
+    "name": "Auric Tesla Space Helmet",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100201,
+    "name": "Auric Tesla Plumed Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100202,
+    "name": "Demonshade Helm",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "helmet"
+  },
+  {
+    "id": 100203,
+    "name": "Demonshade Breastplate",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "chestplate"
+  },
+  {
+    "id": 100204,
+    "name": "Demonshade Greaves",
+    "mod": "calamity",
+    "type": "armor",
+    "rarity": 0,
+    "defense": 0,
+    "armorType": "leggings"
+  }
+]

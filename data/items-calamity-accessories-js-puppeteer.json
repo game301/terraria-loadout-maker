@@ -1,0 +1,1521 @@
+[
+  {
+    "id": 100000,
+    "name": "Forbidden Circlet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100001,
+    "name": "Angel Treads",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100002,
+    "name": "Ascendant Insignia",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100003,
+    "name": "Aureate Booster",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100004,
+    "name": "Celestial Tracers",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100005,
+    "name": "Elysian Tracers",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100006,
+    "name": "Elysian Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100007,
+    "name": "Exodus Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100008,
+    "name": "Hadal Mantle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100009,
+    "name": "Hadarian Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100010,
+    "name": "MOAB",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100011,
+    "name": "Seraph Tracers",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100012,
+    "name": "Silva Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100013,
+    "name": "Skyline Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100014,
+    "name": "Soul of Cryogen",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100015,
+    "name": "Starlight Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100016,
+    "name": "Statis' Ninja Belt",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100017,
+    "name": "Statis' Void Sash",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100018,
+    "name": "Tarragon Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100019,
+    "name": "Wings of Rebirth",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100020,
+    "name": "Wulfrum Acrobatics Pack",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100021,
+    "name": "Aero Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100022,
+    "name": "Giant Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100023,
+    "name": "Harpy Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100024,
+    "name": "Vital Jelly",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100025,
+    "name": "Abyssal Diving Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100026,
+    "name": "Aquatic Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100027,
+    "name": "Iron Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100028,
+    "name": "Restorative Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100029,
+    "name": "Ambrosial Ampoule",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100030,
+    "name": "Blood Pact",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100031,
+    "name": "Chalice of the Blood God",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100032,
+    "name": "Crown Jewel",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100033,
+    "name": "Grand Gelatin",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100034,
+    "name": "Honey Dew",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100035,
+    "name": "Infected Jewel",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100036,
+    "name": "Life Jelly",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100037,
+    "name": "Living Dew",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100038,
+    "name": "Radiance",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100039,
+    "name": "Radiant Ooze",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100040,
+    "name": "Fishing Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100041,
+    "name": "Alluring Bait",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100042,
+    "name": "Enchanted Pearl",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100043,
+    "name": "Supreme Bait Tackle Box Fishing Station",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100044,
+    "name": "Mining Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100045,
+    "name": "Ancient Fossil",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100046,
+    "name": "Archaic Powder",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100047,
+    "name": "Ocean Crest",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100048,
+    "name": "Spelunker's Amulet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100049,
+    "name": "Miscellaneous Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100050,
+    "name": "Music Boxes",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100051,
+    "name": "Old Die",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100052,
+    "name": "Stat Meter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100053,
+    "name": "Badge of Bravery",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100054,
+    "name": "Bloody Worm Scarf",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100055,
+    "name": "Bloody Worm Tooth",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100056,
+    "name": "Elemental Gauntlet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100057,
+    "name": "Hide of Astrum Deus",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100058,
+    "name": "Warbanner of the Sun",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100059,
+    "name": "Daawnlight Spirit Origin",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100060,
+    "name": "Deadshot Brooch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100061,
+    "name": "Dynamo Stem Cells",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100062,
+    "name": "Elemental Quiver",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100063,
+    "name": "Quiver of Nihility",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100064,
+    "name": "Rusty Medallion",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100065,
+    "name": "Chaos Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100066,
+    "name": "Ethereal Talisman",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100067,
+    "name": "Mana Polarizer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100068,
+    "name": "Sigil of Calamitas",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100069,
+    "name": "Angelic Alliance",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100070,
+    "name": "The First Shadowflame",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100071,
+    "name": "Hallowed Rune",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100072,
+    "name": "Jelly-Charged Battery",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100073,
+    "name": "Nuclear Fuel Rod",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100074,
+    "name": "Nucleogenesis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100075,
+    "name": "Phantomic Artifact",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100076,
+    "name": "Spirit Glyph",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100077,
+    "name": "Starbuster Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100078,
+    "name": "Star-Tainted Generator",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100079,
+    "name": "Statis' Blessing",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100080,
+    "name": "Statis' Curse",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100081,
+    "name": "Voltaic Jelly",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100082,
+    "name": "Wulfrum Battery",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100083,
+    "name": "Rogue Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100084,
+    "name": "Abyssal Mirror",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100085,
+    "name": "Bloodstained Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100086,
+    "name": "Blunder Booster",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100087,
+    "name": "Coin of Deceit",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100088,
+    "name": "Corrosive Spine",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100089,
+    "name": "Dark Matter Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100090,
+    "name": "Dragon Scales",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100091,
+    "name": "Eclipse Mirror",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100092,
+    "name": "Electrician's Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100093,
+    "name": "Ethereal Extorter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100094,
+    "name": "Feather Crown",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100095,
+    "name": "Filthy Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100096,
+    "name": "Glove of Precision",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100097,
+    "name": "Glove of Recklessness",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100098,
+    "name": "Ink Bomb",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100099,
+    "name": "Mirage Mirror",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100100,
+    "name": "Moonstone Crown",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100101,
+    "name": "Nanotech",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100102,
+    "name": "Plagued Fuel Pack",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100103,
+    "name": "Raider's Talisman",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100104,
+    "name": "Rogue Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100105,
+    "name": "Rotten Dogtooth",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100106,
+    "name": "Ruin Medallion",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100107,
+    "name": "Sand Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100108,
+    "name": "Scuttler's Jewel",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100109,
+    "name": "Silencing Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100110,
+    "name": "Spectral Veil",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100111,
+    "name": "Vampiric Talisman",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100112,
+    "name": "Venerated Locket",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100113,
+    "name": "Rage Meter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100114,
+    "name": "Heart of Darkness",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100115,
+    "name": "Occult Skull Crown",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100116,
+    "name": "Shattered Community",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100117,
+    "name": "Abyssal Amulet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100118,
+    "name": "The Amalgam",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100119,
+    "name": "Amalgamated Brain",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100120,
+    "name": "Amidias' Pendant",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100121,
+    "name": "The Bee",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100122,
+    "name": "Calamity",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100123,
+    "name": "Counter Scarf",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100124,
+    "name": "Dark Sun Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100125,
+    "name": "Dimensional Soul Artifact",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100126,
+    "name": "Eldritch Soul Artifact",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100127,
+    "name": "Evasion Scarf",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100128,
+    "name": "Frost Flare",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100129,
+    "name": "Fungal Symbiote",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100130,
+    "name": "Gladiator's Locket",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100131,
+    "name": "Leviathan Ambergris",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100132,
+    "name": "Lumenous Amulet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100133,
+    "name": "Luxor's Gift",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100134,
+    "name": "Nebulous Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100135,
+    "name": "Necklace of Vexation",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100136,
+    "name": "Old Duke's Scales",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100137,
+    "name": "Reaper Tooth Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100138,
+    "name": "Rotten Brain",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100139,
+    "name": "Sand Shark Tooth Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100140,
+    "name": "Slagsplitter Pauldron",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100141,
+    "name": "Toxic Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100142,
+    "name": "The Transformer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100143,
+    "name": "Unstable Granite Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100144,
+    "name": "Void of Calamity",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100145,
+    "name": "Void of Extinction",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100146,
+    "name": "Yharim's Gift",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100147,
+    "name": "Minions",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100148,
+    "name": "Auric Soul Artifact",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100149,
+    "name": "Elemental in a Bottle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100150,
+    "name": "Eye of the Storm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100151,
+    "name": "Fungal Clump",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100152,
+    "name": "Heart of the Elements",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100153,
+    "name": "Howl's Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100154,
+    "name": "Pearl of Enthrallment",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100155,
+    "name": "Profaned Soul Artifact",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100156,
+    "name": "Profaned Soul Crystal",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100157,
+    "name": "Rare Elemental in a Bottle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100158,
+    "name": "Rose Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100159,
+    "name": "Shields",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100160,
+    "name": "Asgardian Aegis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100161,
+    "name": "Asgard's Valor",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100162,
+    "name": "Elysian Aegis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100163,
+    "name": "Frost Barrier",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100164,
+    "name": "Marnite Repulsion Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100165,
+    "name": "Ornate Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100166,
+    "name": "Rampart of Deities",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100167,
+    "name": "Shield of the High Ruler",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100168,
+    "name": "Shield of the Ocean",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100169,
+    "name": "Abaddon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100170,
+    "name": "The Absorber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100171,
+    "name": "Abyssal Diving Suit",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100172,
+    "name": "Affliction",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100173,
+    "name": "Alchemical Flask",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100174,
+    "name": "Amidias' Spark",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100175,
+    "name": "Anechoic Plating",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100176,
+    "name": "Aquatic Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100177,
+    "name": "Baroclaw",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100178,
+    "name": "Blazing Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100179,
+    "name": "Bloodflare Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100180,
+    "name": "Bloom Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100181,
+    "name": "The Camper",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100182,
+    "name": "Cleansing Jelly",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100183,
+    "name": "The Community",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100184,
+    "name": "Corrupt Flask",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100185,
+    "name": "Craw Carapace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100186,
+    "name": "Crimson Flask",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100187,
+    "name": "Cryo Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100188,
+    "name": "Deep Diver",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100189,
+    "name": "Deific Amulet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100190,
+    "name": "Depths Charm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100191,
+    "name": "Draedon's Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100192,
+    "name": "The Evolution",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100193,
+    "name": "Flame-Licked Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100194,
+    "name": "Flesh Totem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100195,
+    "name": "Giant Pearl",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100196,
+    "name": "Giant Tortoise Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100197,
+    "name": "Gravistar Sabaton",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100198,
+    "name": "Laudanum",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100199,
+    "name": "Permafrost's Concoction",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100200,
+    "name": "Regenator",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100201,
+    "name": "Rover Drive",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100202,
+    "name": "The Sponge",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100203,
+    "name": "Stress Pills",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100204,
+    "name": "Trinket of Chi",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100205,
+    "name": "Ursa Sergeant",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100206,
+    "name": "Ace's Apron of Affection",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100207,
+    "name": "Ashen Horns",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100208,
+    "name": "Legacy vanity headpieces",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100209,
+    "name": "Masks",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100210,
+    "name": "Set of Calamity",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100211,
+    "name": "Vanity Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100212,
+    "name": "Ha-pu Fruit",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100213,
+    "name": "Magic Scarf and Hat",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100214,
+    "name": "Monoliths",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100215,
+    "name": "Oracle Headphones",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  },
+  {
+    "id": 100216,
+    "name": "Red Bow",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "calamity"
+  }
+]

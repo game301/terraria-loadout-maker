@@ -1,0 +1,1850 @@
+[
+  {
+    "id": 200000,
+    "name": "Opal Robe",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200001,
+    "name": "Aquamarine Robe",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200002,
+    "name": "Hallowed Guise",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200003,
+    "name": "Ancient Hallowed Guise",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200004,
+    "name": "Hallowed Cowl",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200005,
+    "name": "Ancient Hallowed Cowl",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200006,
+    "name": "Hallowed Chapeau",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200007,
+    "name": "Ancient Hallowed Chapeau",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200008,
+    "name": "Proof of Avarice",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200009,
+    "name": "Donator items",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200010,
+    "name": "Plantera",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200011,
+    "name": "Air Walkers",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200012,
+    "name": "Bee Booties",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200013,
+    "name": "Crash Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200014,
+    "name": "Drift Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200015,
+    "name": "Healthy Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200016,
+    "name": "Hover Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200017,
+    "name": "Artificer's Rocketeers",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200018,
+    "name": "Slag Stompers",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200019,
+    "name": "Spring Steps",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200020,
+    "name": "Steel Toed Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200021,
+    "name": "Survivalist's Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200022,
+    "name": "Traveler's Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200023,
+    "name": "Turbo Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200024,
+    "name": "Weighted Winglets",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200025,
+    "name": "Wizard Shoes",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200026,
+    "name": "Jet Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200027,
+    "name": "Ogre Sandals",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200028,
+    "name": "Terrarium Particle Sprinters",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200029,
+    "name": "Drowned Doubloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200030,
+    "name": "Incandescent Alacrity",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200031,
+    "name": "The Omega Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200032,
+    "name": "Up-Down Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200033,
+    "name": "Wings",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200034,
+    "name": "Heart Rate Monitor",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200035,
+    "name": "High-tech Sonar Device",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200036,
+    "name": "Seed of Hope",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200037,
+    "name": "Music Boxes",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200038,
+    "name": "Spirit's Grace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200039,
+    "name": "Rebirth Statuette",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200040,
+    "name": "Expert Mode",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200041,
+    "name": "Sea Breeze Pendant",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200042,
+    "name": "Eye of the Storm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200043,
+    "name": "Ice Bound Strider Hide",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200044,
+    "name": "Mirror of the Beholder",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200045,
+    "name": "Abyssal Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200046,
+    "name": "Frostburn Pouch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200047,
+    "name": "Sandshroud Pouch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200048,
+    "name": "Blizzard Pouch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200049,
+    "name": "Sword Sheaths",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200050,
+    "name": "Leather Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200051,
+    "name": "Leeching Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200052,
+    "name": "Titan Slayer Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200053,
+    "name": "Writhing Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200054,
+    "name": "Jetstream Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200055,
+    "name": "Gardener's Sheath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200056,
+    "name": "Spear Tips",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200057,
+    "name": "Silver Spear Tip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200058,
+    "name": "Molten Spear Tip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200059,
+    "name": "Crystal Spear Tip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200060,
+    "name": "Iron Flail-Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200061,
+    "name": "Cursed Flail-Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200062,
+    "name": "Vile Flail-Core",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200063,
+    "name": "Rapier Badge",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200064,
+    "name": "Thumb Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200065,
+    "name": "Dart Pouch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200066,
+    "name": "Concussive Warhead",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200067,
+    "name": "The Nuclear Option",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200068,
+    "name": "Living Wood Sap",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200069,
+    "name": "Incubated Egg",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200070,
+    "name": "Prehistoric Arachnid",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200071,
+    "name": "Soul Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200072,
+    "name": "Necromancer's Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200073,
+    "name": "Necrotic Skull",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200074,
+    "name": "Scrying Glass",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200075,
+    "name": "Crystal Scorpion",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200076,
+    "name": "Steamkeeper Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200077,
+    "name": "Yuma's Pendant",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200078,
+    "name": "Ring Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200079,
+    "name": "Amber Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200080,
+    "name": "Amethyst Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200081,
+    "name": "Aquamarine Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200082,
+    "name": "Diamond Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200083,
+    "name": "Emerald Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200084,
+    "name": "Opal Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200085,
+    "name": "Ruby Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200086,
+    "name": "Sapphire Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200087,
+    "name": "Topaz Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200088,
+    "name": "The Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200089,
+    "name": "Artificer's Focus",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200090,
+    "name": "Beholder's Gaze",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200091,
+    "name": "Crawdad Claw",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200092,
+    "name": "Crietz",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200093,
+    "name": "Dragon's Talon Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200094,
+    "name": "Glittering Chalice",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200095,
+    "name": "Greedy Goblet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200096,
+    "name": "Gut Wrencher's Gauntlet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200097,
+    "name": "Heart of the Jungle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200098,
+    "name": "Hexing Talisman",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200099,
+    "name": "Inferno Lord's Focus",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200100,
+    "name": "Lihzahrd's Tail",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200101,
+    "name": "Magma Locket",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200102,
+    "name": "Mask of the Crystal Eye",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200103,
+    "name": "Nightshade Flower",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200104,
+    "name": "Pocket Fusion Generator",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200105,
+    "name": "Ring of Unity",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200106,
+    "name": "Sandweaver's Tiara",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200107,
+    "name": "Shield Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200108,
+    "name": "Copper Buckler",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200109,
+    "name": "Tin Buckler",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200110,
+    "name": "Iron Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200111,
+    "name": "Lead Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200112,
+    "name": "Silver Bulwark",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200113,
+    "name": "Tungsten Bulwark",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200114,
+    "name": "Gold Aegis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200115,
+    "name": "Platinum Aegis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200116,
+    "name": "Thorium Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200117,
+    "name": "Blacksmith's Barrier",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200118,
+    "name": "Blooming Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200119,
+    "name": "Goblin War Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200120,
+    "name": "Artificer's Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200121,
+    "name": "Champion's Rebuttal",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200122,
+    "name": "Blast Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200123,
+    "name": "Sea Turtle's Bulwark",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200124,
+    "name": "Molten Scale",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200125,
+    "name": "Obsidian Scale",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200126,
+    "name": "Astro-Beetle Husk",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200127,
+    "name": "Ocean's Retaliation",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200128,
+    "name": "Ghastly Carapace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200129,
+    "name": "Holy Aegis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200130,
+    "name": "Serpent Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200131,
+    "name": "Plasma Generator",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200132,
+    "name": "Terrarium Defender",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200133,
+    "name": "Health and Mana Accessories",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200134,
+    "name": "Band of Replenishment",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200135,
+    "name": "Grave Goods",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200136,
+    "name": "Hungering Blossom",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200137,
+    "name": "Mana Bauble",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200138,
+    "name": "Metabolic Pills",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200139,
+    "name": "Murky Catalyst",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200140,
+    "name": "Potion Chaser",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200141,
+    "name": "Smothering Band",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200142,
+    "name": "Tide Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200143,
+    "name": "Vampire Gland",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200144,
+    "name": "Ball n' Chain",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200145,
+    "name": "Cape of the Survivor",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200146,
+    "name": "Family Heirloom",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200147,
+    "name": "Fear Monger",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200148,
+    "name": "Flawless Chrysalis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200149,
+    "name": "Giant Shell Spine",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200150,
+    "name": "Heart of Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200151,
+    "name": "Mantle of the Protector",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200152,
+    "name": "Monster Charm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200153,
+    "name": "Phylactery",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200154,
+    "name": "Sacred Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200155,
+    "name": "Spiked Bracer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200156,
+    "name": "Spiny Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200157,
+    "name": "Sweet Vengeance",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200158,
+    "name": "Canteen",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200159,
+    "name": "Deadman's Patch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200160,
+    "name": "Guide to Expert Throwing",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200161,
+    "name": "Guide to Expert Throwing - Volume II",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200162,
+    "name": "Guide to Expert Throwing - Volume III",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200163,
+    "name": "Padded Grip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200164,
+    "name": "Bone Grip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200165,
+    "name": "Magneto Grip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200166,
+    "name": "Mermaid's Canteen",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200167,
+    "name": "Ninja Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200168,
+    "name": "Olympic Torch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200169,
+    "name": "Pirate's Purse",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200170,
+    "name": "Plague Lord's Flask",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200171,
+    "name": "Shinobi Sigil",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200172,
+    "name": "Spartan Sandals",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200173,
+    "name": "Thief's Wallet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200174,
+    "name": "Wreath",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200175,
+    "name": "Aloe Leaf",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200176,
+    "name": "Ancient Aegis",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200177,
+    "name": "Apothecary's Scarlet Vial",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200178,
+    "name": "Apothecary's Cyan Vial",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200179,
+    "name": "Archangel's Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200180,
+    "name": "Archdemon's Curse",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200181,
+    "name": "Ascension Statuette",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200182,
+    "name": "Belt of the Quick Response",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200183,
+    "name": "Cleric Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200184,
+    "name": "Crystal Arcanite",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200185,
+    "name": "Crystal Honey",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200186,
+    "name": "Dark Effigy",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200187,
+    "name": "Dark Glaze",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200188,
+    "name": "Dark Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200189,
+    "name": "Dark Intent",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200190,
+    "name": "Demon Tongue",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200191,
+    "name": "Dew Collector",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200192,
+    "name": "Equalizer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200193,
+    "name": "Forgotten Cross Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200194,
+    "name": "Fragrant Corsage",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200195,
+    "name": "Head Mirror",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200196,
+    "name": "Honey Heart",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200197,
+    "name": "Inner Flame",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200198,
+    "name": "Karmic Holder",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200199,
+    "name": "Life Gem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200200,
+    "name": "Life Quartz Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200201,
+    "name": "Medical Bag",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200202,
+    "name": "Nirvana Statuette",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200203,
+    "name": "Nurse's Purse",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200204,
+    "name": "Pacifist Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200205,
+    "name": "Salamander Eye",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200206,
+    "name": "Saving Grace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200207,
+    "name": "Seraphim Idol",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200208,
+    "name": "Soul Guard",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200209,
+    "name": "Support Sash",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200210,
+    "name": "The Lost Cross",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200211,
+    "name": "Turn Undead",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200212,
+    "name": "Verdant Ornament",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200213,
+    "name": "Prydwen",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200214,
+    "name": "Auto Tuner",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200215,
+    "name": "Brass Cap",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200216,
+    "name": "Band Kit",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200217,
+    "name": "Bard Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200218,
+    "name": "Concert Tickets",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200219,
+    "name": "Conductor's Baton",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200220,
+    "name": "Cork Grease",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200221,
+    "name": "Devil's Subwoofer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200222,
+    "name": "Digital Tuner",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200223,
+    "name": "Diss Track",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200224,
+    "name": "Epic Mouthpiece",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200225,
+    "name": "Faberge Egg",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200226,
+    "name": "Fan Letter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200227,
+    "name": "Full Score",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200228,
+    "name": "Guitar Pick",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200229,
+    "name": "Guitar Pick Claw",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200230,
+    "name": "Headset",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200231,
+    "name": "High Quality Reed",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200232,
+    "name": "Kick Petal",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200233,
+    "name": "Marching Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200234,
+    "name": "Metronome",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200235,
+    "name": "Mix Tape",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200236,
+    "name": "Mouthpiece",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200237,
+    "name": "Music Notes",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200238,
+    "name": "Music Player",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200239,
+    "name": "Musician's Handbook",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200240,
+    "name": "Pad o' Paper",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200241,
+    "name": "Plunger Mute",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200242,
+    "name": "Shock Absorber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200243,
+    "name": "Straight Mute",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200244,
+    "name": "Subwoofer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200245,
+    "name": "Terrarium Surround Sound",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200246,
+    "name": "Track Players",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200247,
+    "name": "Vibration Tuner",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200248,
+    "name": "Waxy Rosin",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200249,
+    "name": "Hollow's Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200250,
+    "name": "Daawn's Wig",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200251,
+    "name": "Fish Hat",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200252,
+    "name": "Hat Fish",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200253,
+    "name": "Loot Lurer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200254,
+    "name": "Note Hairpin",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200255,
+    "name": "Thorium Cube",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200256,
+    "name": "Thorium Party Hat",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200257,
+    "name": "Blacksmith's Apron",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200258,
+    "name": "Exile's Garb",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200259,
+    "name": "Camping Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200260,
+    "name": "Desert Acolyte's Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200261,
+    "name": "Druid's Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200262,
+    "name": "Leather Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  },
+  {
+    "id": 200263,
+    "name": "Track Player",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "thorium"
+  }
+]

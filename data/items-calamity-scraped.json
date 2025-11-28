@@ -8,25 +8,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100000,
-    "name": "Forbidden Circlet",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100001,
     "name": "Abyss Blade",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100001,
-    "name": "Angel Treads",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -38,25 +24,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100002,
-    "name": "Ascendant Insignia",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100003,
     "name": "Aftershock",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100003,
-    "name": "Aureate Booster",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -68,25 +40,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100004,
-    "name": "Celestial Tracers",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100005,
     "name": "Amidias' Trident",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100005,
-    "name": "Elysian Tracers",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -98,44 +56,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100006,
-    "name": "Elysian Wings",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100006,
-    "name": "Silver Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100007,
     "name": "Aorta",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100007,
-    "name": "Exodus Wings",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100007,
-    "name": "Silver Chainmail",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100008,
@@ -146,44 +72,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100008,
-    "name": "Hadal Mantle",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100008,
-    "name": "Silver Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100009,
     "name": "Ark of the Cosmos",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100009,
-    "name": "Hadarian Wings",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100009,
-    "name": "Copper Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100010,
@@ -194,44 +88,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100010,
-    "name": "MOAB",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100010,
-    "name": "Copper Chainmail",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100011,
     "name": "Astral Blade",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100011,
-    "name": "Seraph Tracers",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100011,
-    "name": "Copper Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100012,
@@ -242,44 +104,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100012,
-    "name": "Silva Wings",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100012,
-    "name": "Desert Prowler Hat",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100013,
     "name": "Astral Scythe",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100013,
-    "name": "Skyline Wings",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100013,
-    "name": "Desert Prowler Shirt",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100014,
@@ -290,34 +120,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100014,
-    "name": "Soul of Cryogen",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100014,
-    "name": "Desert Prowler Pants",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100015,
     "name": "Avalanche",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100015,
-    "name": "Starlight Wings",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -329,25 +136,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100016,
-    "name": "Statis' Ninja Belt",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100017,
     "name": "Baleful Harvester",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100017,
-    "name": "Statis' Void Sash",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -359,13 +152,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100018,
-    "name": "Tarragon Wings",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100019,
     "name": "Banshee Hook",
     "type": "weapon",
@@ -374,34 +160,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100019,
-    "name": "Wings of Rebirth",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100019,
-    "name": "Wulfrum Hat & Goggles",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100020,
     "name": "Basher",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100020,
-    "name": "Wulfrum Acrobatics Pack",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -413,123 +176,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100021,
-    "name": "Aero Stone",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100022,
-    "name": "Giant Shell",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100023,
-    "name": "Harpy Ring",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100024,
-    "name": "Vital Jelly",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100024,
-    "name": "Victide Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
-    "id": 100025,
-    "name": "Abyssal Diving Gear",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100025,
-    "name": "Victide Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
-    "id": 100026,
-    "name": "Aquatic Emblem",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100026,
-    "name": "Victide Hermit Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
-    "id": 100027,
-    "name": "Iron Boots",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100027,
-    "name": "Victide Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
-    "id": 100028,
-    "name": "Restorative Accessories",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100028,
-    "name": "Sulphurous Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
-    "id": 100029,
-    "name": "Ambrosial Ampoule",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100029,
-    "name": "Sulphurous Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100030,
     "name": "Bladecrest Oathsword",
     "type": "weapon",
@@ -538,34 +184,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100030,
-    "name": "Blood Pact",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100030,
-    "name": "Sulphurous Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100031,
     "name": "Blighted Cleaver",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100031,
-    "name": "Chalice of the Blood God",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -577,25 +200,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100032,
-    "name": "Crown Jewel",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100033,
     "name": "Botanic Piercer",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100033,
-    "name": "Grand Gelatin",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -607,25 +216,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100034,
-    "name": "Honey Dew",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100035,
     "name": "Brimlash",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100035,
-    "name": "Infected Jewel",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -637,25 +232,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100036,
-    "name": "Life Jelly",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100037,
     "name": "Briny Baron",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100037,
-    "name": "Living Dew",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -667,66 +248,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100038,
-    "name": "Radiance",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100039,
-    "name": "Radiant Ooze",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100040,
-    "name": "Fishing Accessories",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100041,
-    "name": "Alluring Bait",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100042,
-    "name": "Enchanted Pearl",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100042,
-    "name": "Aerospec Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
-    "id": 100043,
-    "name": "Supreme Bait Tackle Box Fishing Station",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100043,
-    "name": "Aerospec Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100044,
     "name": "Burning Revelation",
     "type": "weapon",
@@ -735,34 +256,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100044,
-    "name": "Mining Accessories",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100044,
-    "name": "Aerospec Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100045,
     "name": "Burnt Sienna",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100045,
-    "name": "Ancient Fossil",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -774,25 +272,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100046,
-    "name": "Archaic Powder",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100047,
     "name": "Catastrophe Claymore",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100047,
-    "name": "Ocean Crest",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -804,22 +288,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100048,
-    "name": "Spelunker's Amulet",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100048,
-    "name": "Aerospec Hat",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100049,
     "name": "Celestial Claymore",
     "type": "weapon",
@@ -828,34 +296,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100049,
-    "name": "Miscellaneous Accessories",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100049,
-    "name": "Aerospec Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100050,
     "name": "Clam Crusher",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100050,
-    "name": "Music Boxes",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -867,25 +312,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100051,
-    "name": "Old Die",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100052,
     "name": "Cosmic Discharge",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100052,
-    "name": "Stat Meter",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -897,44 +328,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100053,
-    "name": "Badge of Bravery",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100053,
-    "name": "Statigel Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100054,
     "name": "Crescent Moon",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100054,
-    "name": "Bloody Worm Scarf",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100054,
-    "name": "Statigel Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100055,
@@ -945,44 +344,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100055,
-    "name": "Bloody Worm Tooth",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100055,
-    "name": "Statigel Headgear",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100056,
     "name": "Death's Ascension",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100056,
-    "name": "Elemental Gauntlet",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100056,
-    "name": "Statigel Cap",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100057,
@@ -993,44 +360,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100057,
-    "name": "Hide of Astrum Deus",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100057,
-    "name": "Statigel Hood",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100058,
     "name": "Depth Crusher",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100058,
-    "name": "Warbanner of the Sun",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100058,
-    "name": "Statigel Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100059,
@@ -1041,44 +376,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100059,
-    "name": "Daawnlight Spirit Origin",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100059,
-    "name": "Mollusk Shellplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100060,
     "name": "Devil's Devastation",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100060,
-    "name": "Deadshot Brooch",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100060,
-    "name": "Mollusk Shelleggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100061,
@@ -1089,44 +392,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100061,
-    "name": "Dynamo Stem Cells",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100061,
-    "name": "Palladium Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100062,
     "name": "Diseased Pike",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100062,
-    "name": "Elemental Quiver",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100062,
-    "name": "Palladium Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100063,
@@ -1137,44 +408,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100063,
-    "name": "Quiver of Nihility",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100063,
-    "name": "Palladium Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100064,
     "name": "Dragon Pow",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100064,
-    "name": "Rusty Medallion",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100064,
-    "name": "Palladium Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100065,
@@ -1185,34 +424,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100065,
-    "name": "Chaos Stone",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100065,
-    "name": "Palladium Headgear",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100066,
     "name": "Earth",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100066,
-    "name": "Ethereal Talisman",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1224,25 +440,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100067,
-    "name": "Mana Polarizer",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100068,
     "name": "Elemental Lance",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100068,
-    "name": "Sigil of Calamitas",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1254,22 +456,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100069,
-    "name": "Angelic Alliance",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100069,
-    "name": "Titan Heart Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100070,
     "name": "Empyrean Knives",
     "type": "weapon",
@@ -1278,34 +464,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100070,
-    "name": "The First Shadowflame",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100070,
-    "name": "Titan Heart Boots",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100071,
     "name": "Entropic Claymore",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100071,
-    "name": "Hallowed Rune",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1317,25 +480,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100072,
-    "name": "Jelly-Charged Battery",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100073,
     "name": "Eutrophic Scimitar",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100073,
-    "name": "Nuclear Fuel Rod",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1347,22 +496,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100074,
-    "name": "Nucleogenesis",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100074,
-    "name": "Orichalcum Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100075,
     "name": "Exalted Oathblade",
     "type": "weapon",
@@ -1371,34 +504,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100075,
-    "name": "Phantomic Artifact",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100075,
-    "name": "Orichalcum Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100076,
     "name": "Excelsus",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100076,
-    "name": "Spirit Glyph",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1410,25 +520,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100077,
-    "name": "Starbuster Core",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100078,
     "name": "Fallen Paladin's Hammer",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100078,
-    "name": "Star-Tainted Generator",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1440,13 +536,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100079,
-    "name": "Statis' Blessing",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100080,
     "name": "Feller of Evergreens",
     "type": "weapon",
@@ -1455,34 +544,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100080,
-    "name": "Statis' Curse",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100080,
-    "name": "Mythril Hat",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100081,
     "name": "Feralthorn Claymore",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100081,
-    "name": "Voltaic Jelly",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1494,34 +560,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100082,
-    "name": "Wulfrum Battery",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100082,
-    "name": "Mythril Hood",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100083,
     "name": "Floodtide",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100083,
-    "name": "Rogue Accessories",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1533,25 +576,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100084,
-    "name": "Abyssal Mirror",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100085,
     "name": "Forsaken Saber",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100085,
-    "name": "Bloodstained Glove",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1563,25 +592,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100086,
-    "name": "Blunder Booster",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100087,
     "name": "Gael's Greatsword",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100087,
-    "name": "Coin of Deceit",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1593,53 +608,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100088,
-    "name": "Corrosive Spine",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100089,
     "name": "Galaxia",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100089,
-    "name": "Dark Matter Sheath",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100090,
-    "name": "Dragon Scales",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100091,
-    "name": "Eclipse Mirror",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100092,
-    "name": "Electrician's Glove",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100093,
-    "name": "Ethereal Extorter",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1651,13 +624,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100094,
-    "name": "Feather Crown",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100095,
     "name": "Galileo Gladius",
     "type": "weapon",
@@ -1666,34 +632,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100095,
-    "name": "Filthy Glove",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100095,
-    "name": "Forbidden Treads",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100096,
     "name": "Galvanizing Glaive",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100096,
-    "name": "Glove of Precision",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1705,25 +648,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100097,
-    "name": "Glove of Recklessness",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100098,
     "name": "Gelitic Blade",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100098,
-    "name": "Ink Bomb",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1735,25 +664,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100099,
-    "name": "Mirage Mirror",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100100,
     "name": "Goldplume Spear",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100100,
-    "name": "Moonstone Crown",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1765,25 +680,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100101,
-    "name": "Nanotech",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100102,
     "name": "Grax",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100102,
-    "name": "Plagued Fuel Pack",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -1795,35 +696,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100103,
-    "name": "Raider's Talisman",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100104,
     "name": "Greentide",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100104,
-    "name": "Rogue Emblem",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100104,
-    "name": "Daedalus Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100105,
@@ -1834,44 +712,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100105,
-    "name": "Rotten Dogtooth",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100105,
-    "name": "Daedalus Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100106,
     "name": "Hellion Flower Spear",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100106,
-    "name": "Ruin Medallion",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100106,
-    "name": "Daedalus Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100107,
@@ -1882,44 +728,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100107,
-    "name": "Sand Cloak",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100107,
-    "name": "Daedalus Facemask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100108,
     "name": "Holy Collider",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100108,
-    "name": "Scuttler's Jewel",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100108,
-    "name": "Reaver Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100109,
@@ -1930,44 +744,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100109,
-    "name": "Silencing Sheath",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100109,
-    "name": "Reaver Scale Mail",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100110,
     "name": "Inferna Cutter",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100110,
-    "name": "Spectral Veil",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100110,
-    "name": "Reaver Cuisses",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100111,
@@ -1978,44 +760,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100111,
-    "name": "Vampiric Talisman",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100111,
-    "name": "Shroomite Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100112,
     "name": "Iridescent Excalibur",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100112,
-    "name": "Venerated Locket",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100112,
-    "name": "Shroomite Headgear",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100113,
@@ -2026,34 +776,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100113,
-    "name": "Rage Meter",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100113,
-    "name": "Shroomite Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100114,
     "name": "Lifehunt Scythe",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100114,
-    "name": "Heart of Darkness",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2065,25 +792,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100115,
-    "name": "Occult Skull Crown",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100116,
     "name": "Lucrecia",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100116,
-    "name": "Shattered Community",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2095,25 +808,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100117,
-    "name": "Abyssal Amulet",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100118,
     "name": "Mantis Claws",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100118,
-    "name": "The Amalgam",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2125,25 +824,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100119,
-    "name": "Amalgamated Brain",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100120,
     "name": "Monstrous Knives",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100120,
-    "name": "Amidias' Pendant",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2155,25 +840,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100121,
-    "name": "The Bee",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100122,
     "name": "Murasama",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100122,
-    "name": "Calamity",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2185,25 +856,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100123,
-    "name": "Counter Scarf",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100124,
     "name": "Nadir",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100124,
-    "name": "Dark Sun Ring",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2215,44 +872,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100125,
-    "name": "Dimensional Soul Artifact",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100125,
-    "name": "Fathom Swarmer Visage",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100126,
     "name": "Neptune's Bounty",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100126,
-    "name": "Eldritch Soul Artifact",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100126,
-    "name": "Fathom Swarmer Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100127,
@@ -2263,44 +888,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100127,
-    "name": "Evasion Scarf",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100127,
-    "name": "Fathom Swarmer Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100128,
     "name": "Old Lord Claymore",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100128,
-    "name": "Frost Flare",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100128,
-    "name": "Umbraphile Hood",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100129,
@@ -2311,22 +904,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100129,
-    "name": "Fungal Symbiote",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100129,
-    "name": "Umbraphile Boots",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100130,
     "name": "Orderbringer",
     "type": "weapon",
@@ -2335,34 +912,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100130,
-    "name": "Gladiator's Locket",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100130,
-    "name": "Reaver Visage",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100131,
     "name": "Ozzathoth",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100131,
-    "name": "Leviathan Ambergris",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2374,25 +928,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100132,
-    "name": "Lumenous Amulet",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100133,
     "name": "Perfect Dark",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100133,
-    "name": "Luxor's Gift",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2404,22 +944,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100134,
-    "name": "Nebulous Core",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100134,
-    "name": "Plague Reaper Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100135,
     "name": "Phosphorescent Gauntlet",
     "type": "weapon",
@@ -2428,34 +952,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100135,
-    "name": "Necklace of Vexation",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100135,
-    "name": "Plague Reaper Vest",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100136,
     "name": "Photon Ripper",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100136,
-    "name": "Old Duke's Scales",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2467,25 +968,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100137,
-    "name": "Reaper Tooth Necklace",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100138,
     "name": "Prismatic Breaker",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100138,
-    "name": "Rotten Brain",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2497,44 +984,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100139,
-    "name": "Sand Shark Tooth Necklace",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100139,
-    "name": "Plaguebringer Visor",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100140,
     "name": "Pwnagehammer",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100140,
-    "name": "Slagsplitter Pauldron",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100140,
-    "name": "Hydrothermic Hood",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100141,
@@ -2545,34 +1000,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100141,
-    "name": "Toxic Heart",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100141,
-    "name": "Hydrothermic Subligar",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100142,
     "name": "Red Sun",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100142,
-    "name": "The Transformer",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2584,25 +1016,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100143,
-    "name": "Unstable Granite Core",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100144,
     "name": "Rem's Revenge",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100144,
-    "name": "Void of Calamity",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2614,25 +1032,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100145,
-    "name": "Void of Extinction",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100146,
     "name": "Riptide",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100146,
-    "name": "Yharim's Gift",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2644,44 +1048,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100147,
-    "name": "Minions",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100147,
-    "name": "Astral Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100148,
     "name": "Sahara Slicers",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100148,
-    "name": "Auric Soul Artifact",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100148,
-    "name": "Astral Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100149,
@@ -2692,34 +1064,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100149,
-    "name": "Elemental in a Bottle",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100149,
-    "name": "Astral Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100150,
     "name": "Scourge of the Cosmos",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100150,
-    "name": "Eye of the Storm",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2731,25 +1080,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100151,
-    "name": "Fungal Clump",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100152,
     "name": "Seeking Scorcher",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100152,
-    "name": "Heart of the Elements",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2761,25 +1096,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100153,
-    "name": "Howl's Heart",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100154,
     "name": "Smoking Comet",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100154,
-    "name": "Pearl of Enthrallment",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2791,25 +1112,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100155,
-    "name": "Profaned Soul Artifact",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100156,
     "name": "Soul Harvester",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100156,
-    "name": "Profaned Soul Crystal",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2821,25 +1128,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100157,
-    "name": "Rare Elemental in a Bottle",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100158,
     "name": "Starnight Lance",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100158,
-    "name": "Rose Stone",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2851,25 +1144,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100159,
-    "name": "Shields",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100160,
     "name": "Stellar Striker",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
-    "mod": "calamity"
-  },
-  {
-    "id": 100160,
-    "name": "Asgardian Aegis",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -2881,35 +1160,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100161,
-    "name": "Asgard's Valor",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100162,
     "name": "Storm Saber",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100162,
-    "name": "Elysian Aegis",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100162,
-    "name": "Empyrean Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100163,
@@ -2920,44 +1176,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100163,
-    "name": "Frost Barrier",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100163,
-    "name": "Empyrean Cuisses",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100164,
     "name": "Stygian Shield",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100164,
-    "name": "Marnite Repulsion Shield",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100164,
-    "name": "Tarragon Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100165,
@@ -2968,44 +1192,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100165,
-    "name": "Ornate Shield",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100165,
-    "name": "Tarragon Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100166,
     "name": "Sulphurous Grabber",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100166,
-    "name": "Rampart of Deities",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100166,
-    "name": "Tarragon Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100167,
@@ -3016,44 +1208,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100167,
-    "name": "Shield of the High Ruler",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100167,
-    "name": "Tarragon Visage",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100168,
     "name": "Tainted Blade",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100168,
-    "name": "Shield of the Ocean",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100168,
-    "name": "Prismatic Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100169,
@@ -3064,44 +1224,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100169,
-    "name": "Abaddon",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100169,
-    "name": "Prismatic Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100170,
     "name": "Tenebreus Tides",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100170,
-    "name": "The Absorber",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100170,
-    "name": "Tarragon Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100171,
@@ -3112,44 +1240,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100171,
-    "name": "Abyssal Diving Suit",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100171,
-    "name": "Tarragon Horned Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100172,
     "name": "Terror Blade",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100172,
-    "name": "Affliction",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100172,
-    "name": "Tarragon Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100173,
@@ -3160,44 +1256,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100173,
-    "name": "Alchemical Flask",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100173,
-    "name": "Bloodflare Ram Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100174,
     "name": "The Dark Master",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100174,
-    "name": "Amidias' Spark",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100174,
-    "name": "Bloodflare Body Armor",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100175,
@@ -3208,44 +1272,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100175,
-    "name": "Anechoic Plating",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100175,
-    "name": "Bloodflare Cuisses",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100176,
     "name": "The God's Gambit",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100176,
-    "name": "Aquatic Heart",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100176,
-    "name": "Omega Blue Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100177,
@@ -3256,44 +1288,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100177,
-    "name": "Baroclaw",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100177,
-    "name": "Omega Blue Chestplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100178,
     "name": "The Microwave",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100178,
-    "name": "Blazing Core",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100178,
-    "name": "Bloodflare Horned Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100179,
@@ -3304,44 +1304,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100179,
-    "name": "Bloodflare Core",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100179,
-    "name": "Bloodflare Hydra Hood",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100180,
     "name": "The Obliterator",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100180,
-    "name": "Bloom Stone",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100180,
-    "name": "Bloodflare Wyvern Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100181,
@@ -3352,44 +1320,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100181,
-    "name": "The Camper",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100181,
-    "name": "Bloodflare Imp Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100182,
     "name": "Titan Arm",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100182,
-    "name": "Cleansing Jelly",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100182,
-    "name": "God Slayer Horned Greathelm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100183,
@@ -3400,108 +1336,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100183,
-    "name": "The Community",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100183,
-    "name": "God Slayer Chestplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100184,
     "name": "True Biome Blade",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100184,
-    "name": "Corrupt Flask",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100184,
-    "name": "God Slayer Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
-    "id": 100185,
-    "name": "Craw Carapace",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100185,
-    "name": "Fearmonger Greathelm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
-    "id": 100186,
-    "name": "Crimson Flask",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100186,
-    "name": "Fearmonger Plate Mail",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
-    "id": 100187,
-    "name": "Cryo Stone",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100187,
-    "name": "Fearmonger Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
-    "id": 100188,
-    "name": "Deep Diver",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100188,
-    "name": "God Slayer Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100189,
@@ -3512,44 +1352,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100189,
-    "name": "Deific Amulet",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100189,
-    "name": "Silva Masked Cap",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100190,
     "name": "Typhon's Greed",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100190,
-    "name": "Depths Charm",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100190,
-    "name": "Silva Leggings",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
   },
   {
     "id": 100191,
@@ -3560,44 +1368,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100191,
-    "name": "Draedon's Heart",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100191,
-    "name": "Silva Horned Hood",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100192,
     "name": "Urchin Flail",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100192,
-    "name": "The Evolution",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100192,
-    "name": "God Slayer Mask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100193,
@@ -3608,44 +1384,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100193,
-    "name": "Flame-Licked Shell",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100193,
-    "name": "Auric Tesla Royal Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100194,
     "name": "Vein Burster",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100194,
-    "name": "Flesh Totem",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100194,
-    "name": "Auric Tesla Body Armor",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
   },
   {
     "id": 100195,
@@ -3656,44 +1400,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100195,
-    "name": "Giant Pearl",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100195,
-    "name": "Auric Tesla Cuisses",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100196,
     "name": "Virulence",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100196,
-    "name": "Giant Tortoise Shell",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100196,
-    "name": "Gem Tech Headgear",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100197,
@@ -3704,44 +1416,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100197,
-    "name": "Gravistar Sabaton",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100197,
-    "name": "Gem Tech Body Armor",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100198,
     "name": "Vulcanite Lance",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100198,
-    "name": "Laudanum",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100198,
-    "name": "Auric Tesla Hooded Facemask",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100199,
@@ -3752,44 +1432,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100199,
-    "name": "Permafrost's Concoction",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100199,
-    "name": "Auric Tesla Wire-Hemmed Visage",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100200,
     "name": "Wulfrum Screwdriver",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100200,
-    "name": "Regenator",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100200,
-    "name": "Auric Tesla Space Helmet",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100201,
@@ -3800,44 +1448,12 @@
     "mod": "calamity"
   },
   {
-    "id": 100201,
-    "name": "Rover Drive",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100201,
-    "name": "Auric Tesla Plumed Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
-  },
-  {
     "id": 100202,
     "name": "Yin-Yo",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "melee",
     "mod": "calamity"
-  },
-  {
-    "id": 100202,
-    "name": "The Sponge",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100202,
-    "name": "Demonshade Helm",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "helmet"
   },
   {
     "id": 100203,
@@ -3848,22 +1464,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100203,
-    "name": "Stress Pills",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100203,
-    "name": "Demonshade Breastplate",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "chestplate"
-  },
-  {
     "id": 100204,
     "name": "Adamantite Particle Accelerator",
     "type": "weapon",
@@ -3872,34 +1472,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100204,
-    "name": "Trinket of Chi",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100204,
-    "name": "Demonshade Greaves",
-    "mod": "calamity",
-    "type": "armor",
-    "rarity": 0,
-    "defense": 0,
-    "armorType": "leggings"
-  },
-  {
     "id": 100205,
     "name": "Alluvion",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "ranged",
-    "mod": "calamity"
-  },
-  {
-    "id": 100205,
-    "name": "Ursa Sergeant",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -3911,25 +1488,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100206,
-    "name": "Ace's Apron of Affection",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100207,
     "name": "Animosity",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "ranged",
-    "mod": "calamity"
-  },
-  {
-    "id": 100207,
-    "name": "Ashen Horns",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -3941,25 +1504,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100208,
-    "name": "Legacy vanity headpieces",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100209,
     "name": "Aquashard Shotgun",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "ranged",
-    "mod": "calamity"
-  },
-  {
-    "id": 100209,
-    "name": "Masks",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -3971,25 +1520,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100210,
-    "name": "Set of Calamity",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100211,
     "name": "Arc Nova Diffuser",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "ranged",
-    "mod": "calamity"
-  },
-  {
-    "id": 100211,
-    "name": "Vanity Accessories",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -4001,25 +1536,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100212,
-    "name": "Ha-pu Fruit",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100213,
     "name": "Arietes 41",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "ranged",
-    "mod": "calamity"
-  },
-  {
-    "id": 100213,
-    "name": "Magic Scarf and Hat",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {
@@ -4031,13 +1552,6 @@
     "mod": "calamity"
   },
   {
-    "id": 100214,
-    "name": "Monoliths",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100215,
     "name": "Astral Blaster",
     "type": "weapon",
@@ -4046,25 +1560,11 @@
     "mod": "calamity"
   },
   {
-    "id": 100215,
-    "name": "Oracle Headphones",
-    "type": "accessory",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
     "id": 100216,
     "name": "Astral Bow",
     "type": "weapon",
     "rarity": 0,
     "weaponClass": "ranged",
-    "mod": "calamity"
-  },
-  {
-    "id": 100216,
-    "name": "Red Bow",
-    "type": "accessory",
-    "rarity": 0,
     "mod": "calamity"
   },
   {

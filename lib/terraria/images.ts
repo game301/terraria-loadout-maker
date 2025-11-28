@@ -6,10 +6,8 @@
 // Boss icon overrides - use map icons for better quality
 const BOSS_ICON_OVERRIDES: { [key: string]: string } = {
     // Vanilla
-    "The Twins": "https://terraria.wiki.gg/images/The_Twins.png",
+
     // Calamity map icons
-    "Leviathan and Anahita":
-        "https://calamitymod.wiki.gg/images/Anahita_map.png",
     "The Hive Mind": "https://calamitymod.wiki.gg/images/Hive_Mind_map.png",
     "Providence, the Profaned Goddess":
         "https://calamitymod.wiki.gg/images/Providence_map.png",
@@ -17,19 +15,9 @@ const BOSS_ICON_OVERRIDES: { [key: string]: string } = {
         "https://calamitymod.wiki.gg/images/Signus_map.png",
     "Yharon, Dragon of Rebirth":
         "https://calamitymod.wiki.gg/images/Yharon_map.png",
-    "Supreme Calamitas": "https://calamitymod.wiki.gg/images/Calamitas_map.png",
+    "Supreme Witch, Calamitas":
+        "https://calamitymod.wiki.gg/images/Calamitas_map.png",
     // Thorium map icons
-    "Buried Champion":
-        "https://thoriummod.wiki.gg/images/Buried_Champion_%28Map_icon%29.png",
-    "Star Scouter":
-        "https://thoriummod.wiki.gg/images/Star_Scouter_%28Map_icon%29.png",
-    "Fallen Beholder":
-        "https://thoriummod.wiki.gg/images/thumb/Fallen_Beholder_%28Map_icon%29.png/24px-Fallen_Beholder_%28Map_icon%29.png?bcce02",
-    Lich: "https://thoriummod.wiki.gg/images/Lich_%28Map_icon%29.png",
-    "Forgotten One":
-        "https://thoriummod.wiki.gg/images/Forgotten_One_%28Map_icon%29.png",
-    "The Primordials":
-        "https://thoriummod.wiki.gg/images/Omnicide%2C_the_Life_Defiler_%28Map_icon%29.png",
 }
 
 // Item icon overrides - use specific URLs for items with special cases
@@ -41,18 +29,7 @@ const ITEM_ICON_OVERRIDES: { [key: string]: string } = {
 // Item name overrides for special wiki naming conventions
 const ITEM_NAME_OVERRIDES: { [key: string]: string } = {
     // Vanilla items that use different wiki file names or formats
-    "Enchanted Sword": "Enchanted_Sword_%28item%29",
-    "Fiery Greatsword": "Volcano_%28old%29",
-    // Calamity items that were renamed
-    Fabstaff: "Sylvestaff",
-    // Calamity Auric Tesla armor pieces
-    "Auric Tesla Royal Helm": "Auric_Tesla_Royal_Helm",
-    "Auric Tesla Hooded Facemask": "Auric_Tesla_Hooded_Facemask",
-    "Auric Tesla Wire-Hemmed Visage": "Auric_Tesla_Wire-Hemmed_Visage",
-    "Auric Tesla Space Helmet": "Auric_Tesla_Space_Helmet",
-    "Auric Tesla Plumed Helm": "Auric_Tesla_Plumed_Helm",
-    "Auric Tesla Body Armor": "Auric_Tesla_Body_Armor",
-    "Auric Tesla Cuisses": "Auric_Tesla_Cuisses",
+    // Example: "Item Name": "Item_Name_(item)",
 }
 
 /**

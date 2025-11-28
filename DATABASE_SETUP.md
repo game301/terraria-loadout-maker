@@ -54,7 +54,6 @@ CREATE TABLE public.loadouts (
     accessories JSONB DEFAULT '[]'::jsonb,
     weapons JSONB DEFAULT '[]'::jsonb,
     buffs JSONB DEFAULT '[]'::jsonb,
-    ammo JSONB DEFAULT '[]'::jsonb,
 
     -- Metadata
     is_public BOOLEAN DEFAULT true,

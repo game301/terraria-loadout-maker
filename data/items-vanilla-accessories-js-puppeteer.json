@@ -1,0 +1,2648 @@
+[
+  {
+    "id": 1,
+    "name": "Aglet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 2,
+    "name": "Amber Horseshoe Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 3,
+    "name": "Amphibian Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 4,
+    "name": "Anklet of the Wind",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 5,
+    "name": "Arctic Diving Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 6,
+    "name": "Balloon Pufferfish",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 7,
+    "name": "Blizzard in a Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 8,
+    "name": "Blizzard in a Bottle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 9,
+    "name": "Blue Horseshoe Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 10,
+    "name": "Bundle of Balloons",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 11,
+    "name": "Bundle of Horseshoe Balloons",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 12,
+    "name": "Celestial Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 13,
+    "name": "Climbing Claws",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 14,
+    "name": "Cloud in a Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 15,
+    "name": "Cloud in a Bottle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 16,
+    "name": "Diving Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 17,
+    "name": "Dunerider Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 18,
+    "name": "Fairy Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 19,
+    "name": "Fart in a Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 20,
+    "name": "Fart in a Jar",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 21,
+    "name": "Flipper",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 22,
+    "name": "Flurry Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 23,
+    "name": "Flying Carpet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 24,
+    "name": "Frog Flipper",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 25,
+    "name": "Frog Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 26,
+    "name": "Frog Leg",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 27,
+    "name": "Frog Webbing",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 28,
+    "name": "Frostspark Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 29,
+    "name": "Green Horseshoe Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 30,
+    "name": "Hellfire Treads",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 31,
+    "name": "Hermes Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 32,
+    "name": "Honey Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 33,
+    "name": "Ice Skates",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 34,
+    "name": "Inner Tube",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 35,
+    "name": "Jellyfish Diving Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 36,
+    "name": "Lava Charm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 37,
+    "name": "Lava Waders",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 38,
+    "name": "Lightning Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 39,
+    "name": "Lucky Horseshoe",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 40,
+    "name": "Magiluminescence",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 41,
+    "name": "Magma Skull",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 42,
+    "name": "Master Ninja Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 43,
+    "name": "Molten Charm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 44,
+    "name": "Moon Charm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 45,
+    "name": "Moon Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 46,
+    "name": "Neptune's Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 47,
+    "name": "Obsidian Horseshoe",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 48,
+    "name": "Obsidian Water Walking Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 49,
+    "name": "Pink Horseshoe Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 50,
+    "name": "Rocket Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 51,
+    "name": "Sailfish Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 52,
+    "name": "Sandstorm in a Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 53,
+    "name": "Sandstorm in a Bottle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 54,
+    "name": "Sharkron Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 55,
+    "name": "Shiny Red Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 56,
+    "name": "Shoe Spikes",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 57,
+    "name": "Spectre Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 58,
+    "name": "Step Stool",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 59,
+    "name": "Tabi",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 60,
+    "name": "Terraspark Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 61,
+    "name": "Tiger Climbing Gear",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 62,
+    "name": "Tsunami in a Bottle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 63,
+    "name": "Water Walking Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 64,
+    "name": "White Horseshoe Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 65,
+    "name": "Yellow Horseshoe Balloon",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 66,
+    "name": "Valentine Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 67,
+    "name": "Copper Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 68,
+    "name": "Tin Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 69,
+    "name": "Silver Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 70,
+    "name": "Tungsten Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 71,
+    "name": "Gold Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 72,
+    "name": "Platinum Watch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 73,
+    "name": "Depth Meter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 74,
+    "name": "Compass",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 75,
+    "name": "Radar",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 76,
+    "name": "Lifeform Analyzer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 77,
+    "name": "Tally Counter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 78,
+    "name": "Metal Detector",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 79,
+    "name": "Stopwatch",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 80,
+    "name": "DPS Meter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 81,
+    "name": "Fisherman's Pocket Guide",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 82,
+    "name": "Weather Radio",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 83,
+    "name": "Sextant",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 84,
+    "name": "R.E.K. 3000",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 85,
+    "name": "Goblin Tech",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 86,
+    "name": "Fish Finder",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 87,
+    "name": "Mechanical Lens",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 88,
+    "name": "Ruler",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 89,
+    "name": "Mechanical Ruler",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 90,
+    "name": "Arcane Flower",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 91,
+    "name": "Band of Regeneration",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 92,
+    "name": "Band of Starpower",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 93,
+    "name": "Celestial Cuffs",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 94,
+    "name": "Celestial Magnet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 95,
+    "name": "Celestial Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 96,
+    "name": "Charm of Myths",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 97,
+    "name": "Magic Cuffs",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 98,
+    "name": "Magnet Flower",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 99,
+    "name": "Mana Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 100,
+    "name": "Mana Flower",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 101,
+    "name": "Mana Regeneration Band",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 102,
+    "name": "Nature's Gift",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 103,
+    "name": "Philosopher's Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 104,
+    "name": "Adhesive Bandage",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 105,
+    "name": "Ankh Charm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 106,
+    "name": "Ankh Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 107,
+    "name": "Armor Bracing",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 108,
+    "name": "Armor Polish",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 109,
+    "name": "Avenger Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 110,
+    "name": "Bee Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 111,
+    "name": "Berserker's Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 112,
+    "name": "Bezoar",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 113,
+    "name": "Black Belt",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 114,
+    "name": "Blindfold",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 115,
+    "name": "Celestial Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 116,
+    "name": "Cobalt Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 117,
+    "name": "Countercurse Mantra",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 118,
+    "name": "Cross Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 119,
+    "name": "Destroyer Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 120,
+    "name": "Eye of the Golem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 121,
+    "name": "Fast Clock",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 122,
+    "name": "Feral Claws",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 123,
+    "name": "Fire Gauntlet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 124,
+    "name": "Flesh Knuckles",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 125,
+    "name": "Frozen Turtle Shell",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 126,
+    "name": "Frozen Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 127,
+    "name": "Hand Warmer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 128,
+    "name": "Hero Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 129,
+    "name": "Honey Comb",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 130,
+    "name": "Magic Quiver",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 131,
+    "name": "Magma Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 132,
+    "name": "Mechanical Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 133,
+    "name": "Medicated Bandage",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 134,
+    "name": "Megaphone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 135,
+    "name": "Moon Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 136,
+    "name": "Molten Quiver",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 137,
+    "name": "Molten Skull Rose",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 138,
+    "name": "Nazar",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 139,
+    "name": "Obsidian Rose",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 140,
+    "name": "Obsidian Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 141,
+    "name": "Obsidian Skull",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 142,
+    "name": "Obsidian Skull Rose",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 143,
+    "name": "Paladin's Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 144,
+    "name": "Panic Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 145,
+    "name": "Pocket Mirror",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 146,
+    "name": "Power Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 147,
+    "name": "Putrid Scent",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 148,
+    "name": "Ranger Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 149,
+    "name": "Recon Scope",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 150,
+    "name": "Reflective Shades",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 151,
+    "name": "Rifle Scope",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 152,
+    "name": "Shackle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 153,
+    "name": "Shark Tooth Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 154,
+    "name": "Sniper Scope",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 155,
+    "name": "Sorcerer Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 156,
+    "name": "Stalker's Quiver",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 157,
+    "name": "Star Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 158,
+    "name": "Star Veil",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 159,
+    "name": "Stinger Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 160,
+    "name": "Summoner Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 161,
+    "name": "Sun Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 162,
+    "name": "Sweetheart Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 163,
+    "name": "The Plan",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 164,
+    "name": "Titan Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 165,
+    "name": "Trifold Map",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 166,
+    "name": "Vitamins",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 167,
+    "name": "Warrior Emblem",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 168,
+    "name": "Apprentice's Scarf",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 169,
+    "name": "Squire's Shield",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 170,
+    "name": "Huntress's Buckler",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 171,
+    "name": "Monk's Belt",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 172,
+    "name": "Hercules Beetle",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 173,
+    "name": "Necromantic Scroll",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 174,
+    "name": "Papyrus Scarab",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 175,
+    "name": "Pygmy Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 176,
+    "name": "Toolbelt",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 177,
+    "name": "Toolbox",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 178,
+    "name": "Paint Sprayer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 179,
+    "name": "Extendo Grip",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 180,
+    "name": "Portable Cement Mixer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 181,
+    "name": "Brick Layer",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 182,
+    "name": "Architect Gizmo Pack",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 183,
+    "name": "Presserator",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 184,
+    "name": "Ancient Chisel",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 185,
+    "name": "Hand Of Creation",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 186,
+    "name": "High Test Fishing Line",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 187,
+    "name": "Angler Earring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 188,
+    "name": "Tackle Box",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 189,
+    "name": "Angler Tackle Bag",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 190,
+    "name": "Lavaproof Fishing Hook",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 191,
+    "name": "Lavaproof Tackle Bag",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 192,
+    "name": "Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 193,
+    "name": "Glowing Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 194,
+    "name": "Argon Moss Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 195,
+    "name": "Krypton Moss Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 196,
+    "name": "Lava Moss Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 197,
+    "name": "Neon Moss Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 198,
+    "name": "Xenon Moss Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 199,
+    "name": "Helium Moss Fishing Bobber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 200,
+    "name": "White String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 201,
+    "name": "Red String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 202,
+    "name": "Orange String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 203,
+    "name": "Yellow String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 204,
+    "name": "Lime String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 205,
+    "name": "Green String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 206,
+    "name": "Teal String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 207,
+    "name": "Cyan String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 208,
+    "name": "Sky Blue String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 209,
+    "name": "Blue String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 210,
+    "name": "Purple String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 211,
+    "name": "Violet String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 212,
+    "name": "Pink String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 213,
+    "name": "Black String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 214,
+    "name": "Brown String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 215,
+    "name": "Rainbow String",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 216,
+    "name": "Black Counterweight",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 217,
+    "name": "Yellow Counterweight",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 218,
+    "name": "Blue Counterweight",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 219,
+    "name": "Red Counterweight",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 220,
+    "name": "Purple Counterweight",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 221,
+    "name": "Green Counterweight",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 222,
+    "name": "Yoyo Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 223,
+    "name": "Yoyo Bag",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 224,
+    "name": "Clothier Voodoo Doll",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 225,
+    "name": "Coin Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 226,
+    "name": "Discount Card",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 227,
+    "name": "Flower Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 228,
+    "name": "Gold Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 229,
+    "name": "Greedy Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 230,
+    "name": "Guide to Plant Fiber Cordage",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 231,
+    "name": "Guide Voodoo Doll",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 232,
+    "name": "Jellyfish Necklace",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 233,
+    "name": "Lucky Coin",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 234,
+    "name": "Radio Thing",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 235,
+    "name": "Spectre Goggles",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 236,
+    "name": "Echo Chamber",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 237,
+    "name": "Treasure Magnet",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 238,
+    "name": "Chromatic Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 239,
+    "name": "Jungle Rose",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 240,
+    "name": "Winter Cape",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 241,
+    "name": "Mysterious Cape",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 242,
+    "name": "Red Cape",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 243,
+    "name": "Prince Cape",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 244,
+    "name": "Crimson Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 245,
+    "name": "Diamond Ring",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 246,
+    "name": "Angel Halo",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 247,
+    "name": "Ginger Beard",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 248,
+    "name": "Gentleman's Beard",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 249,
+    "name": "Gentleman's Long Beard",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 250,
+    "name": "Gentleman's Magnificent Beard",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 251,
+    "name": "Yoraiz0r's Scowl",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 252,
+    "name": "Leinfors' Luxury Shampoo",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 253,
+    "name": "Balloon Animal",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 254,
+    "name": "Bundled Party Balloons",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 255,
+    "name": "Flame Waker Boots",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 256,
+    "name": "Critter Shampoo",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 257,
+    "name": "Bunny Tail",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 258,
+    "name": "Fox Tail",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 259,
+    "name": "Dog Tail",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 260,
+    "name": "Lizard Tail",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 261,
+    "name": "Fake Unicorn Horn",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 262,
+    "name": "Hunter Cloak",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 263,
+    "name": "Royal Scepter",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 264,
+    "name": "Glass Slipper",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 265,
+    "name": "Rainbow Cursor",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 266,
+    "name": "Aether Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 267,
+    "name": "Blood Moon Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 268,
+    "name": "Vortex Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 269,
+    "name": "Nebula Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 270,
+    "name": "Stardust Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 271,
+    "name": "Solar Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 272,
+    "name": "Void Monolith",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 273,
+    "name": "Music Box",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 274,
+    "name": "Music Box (Overworld Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 275,
+    "name": "Music Box (Alt Overworld Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 276,
+    "name": "Music Box (Night)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 277,
+    "name": "Music Box (Rain)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 278,
+    "name": "Music Box (Snow)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 279,
+    "name": "Music Box (Ice)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 280,
+    "name": "Music Box (Desert)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 281,
+    "name": "Music Box (Ocean Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 282,
+    "name": "Music Box (Ocean Night)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 283,
+    "name": "Music Box (Ocean)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 284,
+    "name": "Music Box (Space Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 285,
+    "name": "Music Box (Space Night)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 286,
+    "name": "Music Box (Space)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 287,
+    "name": "Music Box (Underground)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 288,
+    "name": "Music Box (Alt Underground)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 289,
+    "name": "Music Box (Mushrooms)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 290,
+    "name": "Music Box (Jungle)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 291,
+    "name": "Music Box (Corruption)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 292,
+    "name": "Music Box (Underground Corruption)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 293,
+    "name": "Music Box (Crimson)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 294,
+    "name": "Music Box (Underground Crimson)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 295,
+    "name": "Music Box (The Hallow)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 296,
+    "name": "Music Box (Underground Hallow)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 297,
+    "name": "Music Box (Hell)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 298,
+    "name": "Music Box (Dungeon)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 299,
+    "name": "Music Box (Temple)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 300,
+    "name": "Music Box (Boss 1)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 301,
+    "name": "Music Box (Boss 2)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 302,
+    "name": "Music Box (Boss 3)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 303,
+    "name": "Music Box (Boss 4)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 304,
+    "name": "Music Box (Boss 5)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 305,
+    "name": "Music Box (Deerclops)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 306,
+    "name": "Music Box (Queen Slime)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 307,
+    "name": "Music Box (Plantera)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 308,
+    "name": "Music Box (Empress Of Light)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 309,
+    "name": "Music Box (Duke Fishron)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 310,
+    "name": "Music Box (Eerie)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 311,
+    "name": "Music Box (Eclipse)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 312,
+    "name": "Music Box (Goblin Invasion)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 313,
+    "name": "Music Box (Pirate Invasion)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 314,
+    "name": "Music Box (Martian Madness)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 315,
+    "name": "Music Box (Pumpkin Moon)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 316,
+    "name": "Music Box (Frost Moon)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 317,
+    "name": "Music Box (The Towers)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 318,
+    "name": "Music Box (Lunar Boss)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 319,
+    "name": "Music Box (Sandstorm)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 320,
+    "name": "Music Box (Old One's Army)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 321,
+    "name": "Music Box (Slime Rain)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 322,
+    "name": "Music Box (Town Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 323,
+    "name": "Music Box (Town Night)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 324,
+    "name": "Music Box (Windy Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 325,
+    "name": "Music Box (Storm)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 326,
+    "name": "Music Box (Graveyard)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 327,
+    "name": "Music Box (Underground Jungle)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 328,
+    "name": "Music Box (Jungle Night)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 329,
+    "name": "Music Box (Morning Rain)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 330,
+    "name": "Music Box (Underground Desert)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 331,
+    "name": "Music Box (Aether)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 332,
+    "name": "Otherworldly Music Box (Rain)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 333,
+    "name": "Otherworldly Music Box (Overworld Day)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 334,
+    "name": "Otherworldly Music Box (Night)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 335,
+    "name": "Otherworldly Music Box (Underground)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 336,
+    "name": "Otherworldly Music Box (Desert)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 337,
+    "name": "Otherworldly Music Box (Ocean)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 338,
+    "name": "Otherworldly Music Box (Mushrooms)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 339,
+    "name": "Otherworldly Music Box (Dungeon)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 340,
+    "name": "Otherworldly Music Box (Space)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 341,
+    "name": "Otherworldly Music Box (Underworld)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 342,
+    "name": "Otherworldly Music Box (Snow)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 343,
+    "name": "Otherworldly Music Box (Corruption)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 344,
+    "name": "Otherworldly Music Box (Underground Corruption)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 345,
+    "name": "Otherworldly Music Box (Crimson)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 346,
+    "name": "Otherworldly Music Box (Underground Crimson)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 347,
+    "name": "Otherworldly Music Box (Ice)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 348,
+    "name": "Otherworldly Music Box (Underground Hallow)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 349,
+    "name": "Otherworldly Music Box (Eerie)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 350,
+    "name": "Otherworldly Music Box (Boss 2)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 351,
+    "name": "Otherworldly Music Box (Boss 1)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 352,
+    "name": "Otherworldly Music Box (Invasion)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 353,
+    "name": "Otherworldly Music Box (The Towers)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 354,
+    "name": "Otherworldly Music Box (Lunar Boss)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 355,
+    "name": "Otherworldly Music Box (Plantera)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 356,
+    "name": "Otherworldly Music Box (Jungle)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 357,
+    "name": "Otherworldly Music Box (Wall of Flesh)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 358,
+    "name": "Otherworldly Music Box (Hallow)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 359,
+    "name": "Music Box (Day Remix)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 360,
+    "name": "Music Box (Journey's Beginning)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 361,
+    "name": "Music Box (Journey's End)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 362,
+    "name": "Music Box (Title)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 363,
+    "name": "Music Box (Alt Title)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 364,
+    "name": "Music Box (Tutorial)",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 365,
+    "name": "Item IDs",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 366,
+    "name": "Royal Gel",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 367,
+    "name": "Shield of Cthulhu",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 368,
+    "name": "Worm Scarf",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 369,
+    "name": "Brain of Confusion",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 370,
+    "name": "Hive Pack",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 371,
+    "name": "Bone Glove",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 372,
+    "name": "Bone Helm",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 373,
+    "name": "Volatile Gelatin",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 374,
+    "name": "Spore Sac",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 375,
+    "name": "Shiny Stone",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 376,
+    "name": "Soaring Insignia",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 377,
+    "name": "Gravity Globe",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  },
+  {
+    "id": 378,
+    "name": "Celestial Starboard",
+    "type": "accessory",
+    "rarity": 0,
+    "mod": "vanilla"
+  }
+]

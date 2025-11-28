@@ -66,8 +66,9 @@ export interface TerrariaItem {
  *
  * @property id - Unique identifier (mod-specific ranges match item IDs)
  * @property name - Display name of the boss
- * @property health - Maximum health points
- * @property defense - Defense stat reducing incoming damage
+ * @property mod - Mod the boss belongs to ("vanilla", "calamity", "thorium")
+ * @property health - Maximum health points (optional - not available from wiki scraping)
+ * @property defense - Defense stat reducing incoming damage (optional - not available from wiki scraping)
  * @property progression - Game stage when boss is typically fought
  * @property order - Sequential order in progression (1=first boss, etc.)
  * @property imageUrl - URL to boss sprite/icon
@@ -75,8 +76,9 @@ export interface TerrariaItem {
 export interface TerrariaBoss {
     id: number
     name: string
-    health: number
-    defense: number
+    mod: string
+    health?: number
+    defense?: number
     progression: BossProgression
     order: number
     imageUrl?: string

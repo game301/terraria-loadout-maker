@@ -24,6 +24,10 @@ pnpm tsc --noEmit
 
 # Linting
 pnpm lint
+
+# Scrape wiki data
+pnpm scrape:all       # All wikis
+pnpm scrape:calamity  # Calamity only
 ```
 
 ## 📂 File Locations
@@ -32,6 +36,7 @@ pnpm lint
 | ---------------- | -------------------------- |
 | Item data        | `data/items-{mod}.json`    |
 | Boss data        | `data/bosses-{mod}.json`   |
+| Wiki scrapers    | `scripts/scrapers/`        |
 | Pages            | `app/{route}/page.tsx`     |
 | Components       | `components/`              |
 | Utilities        | `lib/`                     |
@@ -238,13 +243,12 @@ cat .env.local
 
 ## 📚 Documentation
 
-| Document                | Purpose                 |
-| ----------------------- | ----------------------- |
-| `README.md`             | User-friendly overview  |
-| `DEVELOPER_GUIDE.md`    | Comprehensive dev guide |
-| `DATA_STRUCTURE.md`     | Data specifications     |
-| `COMPLETION_SUMMARY.md` | Recent work summary     |
-| `scripts/README.md`     | Script usage            |
+| Document             | Purpose                 |
+| -------------------- | ----------------------- |
+| `README.md`          | User-friendly overview  |
+| `DEVELOPER_GUIDE.md` | Comprehensive dev guide |
+| `DATA_STRUCTURE.md`  | Data specifications     |
+| `scripts/README.md`  | Script usage            |
 
 ## 🔗 Useful Links
 

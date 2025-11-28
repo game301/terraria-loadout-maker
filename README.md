@@ -52,21 +52,22 @@ For complete setup instructions including:
 
 -   **[Setup Guide](SETUP.md)** - Complete installation and setup instructions
 -   **[Database Setup](DATABASE_SETUP.md)** - Database schema and configuration
--   **[Vercel Deployment](VERCEL_DEPLOYMENT.md)** - Production deployment guide
 -   **[Developer Guide](DEVELOPER_GUIDE.md)** - Comprehensive guide for developers
 -   **[Data Structure](DATA_STRUCTURE.md)** - Data file specifications and conventions
 -   **[Quick Reference](QUICK_REFERENCE.md)** - Command cheat sheet
--   **[Scripts README](scripts/README.md)** - Data generation script usage
+-   **[Wiki Scrapers](scripts/scrapers/README.md)** - Automated wiki scraping documentation
 
 ## 🏗️ Technology Stack
 
--   **Framework**: Next.js 15 (App Router)
--   **Language**: TypeScript
--   **Styling**: Tailwind CSS
--   **UI Components**: shadcn/ui
--   **Database**: Supabase (PostgreSQL)
+-   **Framework**: Next.js 15 (App Router with Turbopack)
+-   **Language**: TypeScript 5
+-   **Styling**: Tailwind CSS with custom Terraria theme
+-   **UI Components**: shadcn/ui (Radix UI primitives)
+-   **Database**: Supabase (PostgreSQL with RLS)
 -   **Authentication**: Supabase Auth
--   **Image CDN**: Terraria Wiki
+-   **Testing**: Jest (unit tests) & Playwright (E2E tests)
+-   **Web Scraping**: Cheerio (HTML parsing)
+-   **Image CDN**: Terraria Wiki & Mod Wikis
 
 ## 📊 Data Structure
 
@@ -74,10 +75,10 @@ Terraria Loadout Maker uses a **hybrid data approach**:
 
 ### Static Data (JSON Files)
 
--   **Items** (`data/items-{mod}.json`) - 209 items across 3 mods
--   **Bosses** (`data/bosses-{mod}.json`) - 56 bosses with progression info
+-   **Items** (`data/items-{mod}.json`) - 3,322 items across 3 mods (1,077 vanilla + 1,078 Calamity + 1,167 Thorium)
+-   **Bosses** (`data/bosses-{mod}.json`) - 55 bosses with progression info (18 vanilla + 26 Calamity + 11 Thorium)
 -   **Buffs** (`data/buffs-{mod}.json`) - Potions and buff items
--   **Ammo** (`data/ammo-{mod}.json`) - Ammunition types
+-   **Ammunition** (`data/ammunition-{mod}.json`) - Ammunition types
 
 Items use non-overlapping ID ranges:
 
@@ -131,15 +132,18 @@ pnpm test:e2e --project=webkit
 ### Data Generation Scripts
 
 ```bash
-# Fetch mod items from wikis
-pnpm tsx scripts/fetch-mod-items.ts
+# Manual item generation (curated items)
+pnpm generate-vanilla-items  # Generate vanilla Terraria items
+pnpm generate-mod-items      # Generate Calamity & Thorium mod items
 
-# Generate vanilla items
-pnpm tsx scripts/generate-vanilla-items.ts
-
-# Update boss data
-pnpm tsx scripts/update-boss-data.ts
+# Wiki scraping (comprehensive item extraction)
+pnpm scrape:all       # Scrape all wikis (vanilla, calamity, thorium)
+pnpm scrape:vanilla   # Scrape vanilla Terraria wiki only
+pnpm scrape:calamity  # Scrape Calamity mod wiki only
+pnpm scrape:thorium   # Scrape Thorium mod wiki only
 ```
+
+**Note**: Scraped data is saved with `-scraped` suffix for manual review before use.
 
 ## 🎯 Roadmap
 
