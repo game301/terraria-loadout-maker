@@ -10,9 +10,9 @@ import thoriumItems from "@/data/items-thorium.json"
 import vanillaBuffs from "@/data/buffs-vanilla.json"
 import calamityBuffs from "@/data/buffs-calamity.json"
 import thoriumBuffs from "@/data/buffs-thorium.json"
-import vanillaAmmo from "@/data/ammo-vanilla.json"
-import calamityAmmo from "@/data/ammo-calamity.json"
-import thoriumAmmo from "@/data/ammo-thorium.json"
+import vanillaAmmo from "@/data/ammunition-vanilla.json"
+import calamityAmmo from "@/data/ammunition-calamity.json"
+import thoriumAmmo from "@/data/ammunition-thorium.json"
 import vanillaBosses from "@/data/bosses-vanilla.json"
 import calamityBosses from "@/data/bosses-calamity.json"
 import thoriumBosses from "@/data/bosses-thorium.json"
@@ -85,7 +85,7 @@ export default function EditLoadoutClient({
     const [gameMode, setGameMode] = useState<GameMode>(
         (loadout.game_mode as GameMode) || "vanilla"
     )
-    const [calamityEnabled, setCalamityEnabled] = useState(true)
+    const [calamityEnabled, setCalamityEnabled] = useState(false)
     const [thoriumEnabled, setThoriumEnabled] = useState(false)
     const [isSaving, setIsSaving] = useState(false)
     const [vanillaDifficulty, setVanillaDifficulty] =
@@ -149,6 +149,26 @@ export default function EditLoadoutClient({
 
     // Load existing loadout data on mount
     useEffect(() => {
+        // Detect enabled mods from items
+        const allLoadoutItems = [
+            ...(Array.isArray(loadout.weapons) ? loadout.weapons : []),
+            ...(Array.isArray(loadout.accessories) ? loadout.accessories : []),
+            ...(Array.isArray(loadout.buffs) ? loadout.buffs : []),
+            loadout.helmet,
+            loadout.chest,
+            loadout.legs,
+        ].filter(Boolean)
+
+        const hasCalamity = allLoadoutItems.some(
+            (item: any) => item?.mod === "calamity"
+        )
+        const hasThorium = allLoadoutItems.some(
+            (item: any) => item?.mod === "thorium"
+        )
+
+        setCalamityEnabled(hasCalamity)
+        setThoriumEnabled(hasThorium)
+
         // Load armor
         const armorData: (SelectedItem | null)[] = [
             loadout.helmet || null,
@@ -184,9 +204,25 @@ export default function EditLoadoutClient({
             : []
         setAccessories(accessoriesData)
 
-        // Load bosses
+        // Load bosses with validation
         if (loadout.target_boss) {
-            setSelectedBosses(loadout.target_boss.split(" | "))
+            const bossList = loadout.target_boss.split(" | ").filter(Boolean)
+            // Ensure at least one boss is selected
+            if (bossList.length > 0) {
+                setSelectedBosses(bossList)
+            } else {
+                // Default to first available boss if none selected
+                const firstBoss = bossesData[0]?.name
+                if (firstBoss) {
+                    setSelectedBosses([firstBoss])
+                }
+            }
+        } else {
+            // Default to first available boss if no target_boss field
+            const firstBoss = bossesData[0]?.name
+            if (firstBoss) {
+                setSelectedBosses([firstBoss])
+            }
         }
     }, [loadout])
 
@@ -478,7 +514,7 @@ export default function EditLoadoutClient({
                 )
                 break
             case "ammo":
-                items = items.filter((item: any) => item.type === "ammo")
+                items = items.filter((item: any) => item.type === "ammunition")
                 break
         }
 
@@ -493,7 +529,7 @@ export default function EditLoadoutClient({
 
     return (
         <div className='min-h-screen terraria-bg'>
-            <div className='max-w-[1400px] mx-auto w-full p-4'>
+            <div className='max-w-[1400px] mx-auto w-full'>
                 {/* Header */}
                 <div className='flex flex-col sm:flex-row justify-between items-center gap-4 mb-6'>
                     <h1 className='text-2xl sm:text-3xl font-bold text-foreground text-center sm:text-left uppercase'>
@@ -836,7 +872,7 @@ export default function EditLoadoutClient({
                                 {/* Boss Selection */}
                                 <div>
                                     <label className='block text-xs font-medium text-gray-400 mb-2 uppercase'>
-                                        Target Boss(es) (Optional)
+                                        Target Boss(es)
                                     </label>
                                     <div className='max-h-48 overflow-y-auto border-2 border-border dark:border-[#1a2a4a] rounded-lg p-3'>
                                         <div className='grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-2'>
@@ -1266,11 +1302,7 @@ export default function EditLoadoutClient({
                                                         {item.name}
                                                     </div>
                                                     <div className='text-xs text-gray-400 truncate'>
-                                                        {item.mod} • {item.type}
-                                                        {item.damage &&
-                                                            ` • ${item.damage} damage`}
-                                                        {item.defense &&
-                                                            ` • ${item.defense} defense`}
+                                                        {item.mod}
                                                     </div>
                                                 </div>
                                             </div>

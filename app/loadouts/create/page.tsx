@@ -15,9 +15,9 @@ import thoriumItems from "@/data/items-thorium.json"
 import vanillaBuffs from "@/data/buffs-vanilla.json"
 import calamityBuffs from "@/data/buffs-calamity.json"
 import thoriumBuffs from "@/data/buffs-thorium.json"
-import vanillaAmmo from "@/data/ammo-vanilla.json"
-import calamityAmmo from "@/data/ammo-calamity.json"
-import thoriumAmmo from "@/data/ammo-thorium.json"
+import vanillaAmmo from "@/data/ammunition-vanilla.json"
+import calamityAmmo from "@/data/ammunition-calamity.json"
+import thoriumAmmo from "@/data/ammunition-thorium.json"
 import vanillaBosses from "@/data/bosses-vanilla.json"
 import calamityBosses from "@/data/bosses-calamity.json"
 import thoriumBosses from "@/data/bosses-thorium.json"
@@ -602,9 +602,9 @@ export default function LoadoutBuilderPage() {
                 items = items.filter((item: any) => item.type === "weapon")
                 break
             case "armor":
-                // Filter by specific armor slot: 0=helmet, 1=chestplate, 2=leggings
-                const armorSlotMap = ["helmet", "chestplate", "leggings"]
-                const requiredArmorSlot = armorSlotMap[modalSlotIndex]
+                // Filter by armor slot based on index (0=helmet, 1=chestplate, 2=leggings)
+                const armorSlots = ["helmet", "chestplate", "leggings"] as const
+                const requiredArmorSlot = armorSlots[modalSlotIndex]
                 items = items.filter(
                     (item: any) =>
                         item.type === "armor" &&
@@ -623,7 +623,7 @@ export default function LoadoutBuilderPage() {
                 )
                 break
             case "ammo":
-                items = items.filter((item: any) => item.type === "ammo")
+                items = items.filter((item: any) => item.type === "ammunition")
                 break
         }
 
@@ -639,7 +639,7 @@ export default function LoadoutBuilderPage() {
 
     return (
         <div className='min-h-screen terraria-bg'>
-            <div className='max-w-[1400px] mx-auto w-full p-4'>
+            <div className='max-w-7xl mx-auto w-full p-4'>
                 {/* Login Required Message */}
                 {isAuthenticated === false && (
                     <div className='mb-6 bg-yellow-100 dark:bg-yellow-900/20 border-2 border-yellow-600 dark:border-yellow-500 rounded-lg p-4'>
@@ -675,7 +675,7 @@ export default function LoadoutBuilderPage() {
                 {/* Header */}
                 <div className='flex flex-col sm:flex-row justify-between items-center gap-4 mb-6'>
                     <h1 className='text-2xl sm:text-3xl font-bold text-foreground text-center sm:text-left'>
-                        PRE-DEVOURER OF GODS
+                        CREATE LOADOUT
                     </h1>
                     <Link
                         href='/my-loadouts'
@@ -916,6 +916,7 @@ export default function LoadoutBuilderPage() {
                                         onChange={(e) =>
                                             setLoadoutName(e.target.value)
                                         }
+                                        placeholder='e.g.: Best Calamity Loadout Ever'
                                         className='w-full px-3 py-2 bg-background dark:bg-[#0a0e1f] border-2 border-border dark:border-[#1a2a4a] rounded text-foreground text-sm focus:outline-none focus:border-cyan-500 transition-colors'
                                     />
                                 </div>
@@ -1168,7 +1169,7 @@ export default function LoadoutBuilderPage() {
                                         onChange={(e) =>
                                             setVersionTag(e.target.value)
                                         }
-                                        placeholder='e.g., 1.4.4, Calamity 2.0'
+                                        placeholder='e.g.: 1.4.4, Calamity 2.0'
                                         className='w-full px-3 py-2 bg-background dark:bg-[#0a0e1f] border-2 border-border dark:border-[#1a2a4a] rounded text-foreground text-sm focus:outline-none focus:border-cyan-500 transition-colors placeholder:text-gray-600'
                                     />
                                 </div>
@@ -1508,11 +1509,7 @@ export default function LoadoutBuilderPage() {
                                                         {item.name}
                                                     </div>
                                                     <div className='text-xs text-gray-400 truncate'>
-                                                        {item.mod} • {item.type}
-                                                        {item.damage &&
-                                                            ` • ${item.damage} damage`}
-                                                        {item.defense &&
-                                                            ` • ${item.defense} defense`}
+                                                        {item.mod}
                                                     </div>
                                                 </div>
                                             </div>

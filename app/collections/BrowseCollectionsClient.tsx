@@ -59,7 +59,7 @@ export default function BrowseCollectionsClient({
 
     return (
         <div className='min-h-screen terraria-bg'>
-            <div className='max-w-7xl mx-auto w-full p-6'>
+            <div className='max-w-7xl mx-auto w-full p-4'>
                 {/* Header */}
                 <div className='mb-6'>
                     <div className='flex justify-between items-start mb-4'>

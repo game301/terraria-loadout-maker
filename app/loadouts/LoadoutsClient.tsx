@@ -280,7 +280,7 @@ export default function LoadoutsClient({
     }, [loadMore, loading, hasMore])
 
     return (
-        <div className='max-w-[1400px] mx-auto w-full p-4'>
+        <div className='max-w-7xl mx-auto w-full p-4'>
             <div className='flex flex-col sm:flex-row justify-between items-center gap-4 mb-6'>
                 <h1 className='text-2xl sm:text-3xl font-bold text-foreground'>
                     Browse Loadouts
@@ -437,7 +437,7 @@ export default function LoadoutsClient({
                                     {loadout.name}
                                 </h3>
 
-                                {/* Preview items */}
+                                {/* Preview items - Show armor (3) + weapons (4) */}
                                 <div className='flex gap-2 mb-3 flex-wrap'>
                                     {loadout.helmet && (
                                         <img
@@ -492,7 +492,7 @@ export default function LoadoutsClient({
                                     )}
                                     {Array.isArray(loadout.weapons) &&
                                         loadout.weapons
-                                            .slice(0, 2)
+                                            .slice(0, 4)
                                             .map((w, i) => (
                                                 <img
                                                     key={i}

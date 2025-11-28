@@ -98,7 +98,7 @@ export default function CollectionsClient({ user }: { user: User }) {
 
     return (
         <div className='min-h-screen terraria-bg'>
-            <div className='max-w-7xl mx-auto w-full p-6'>
+            <div className='max-w-7xl mx-auto w-full p-4'>
                 <div className='mb-6 flex justify-between items-center'>
                     <div>
                         <h1 className='text-3xl font-bold text-yellow-400 mb-2'>
@@ -194,12 +194,14 @@ export default function CollectionsClient({ user }: { user: User }) {
                         </button>
                     </div>
                 ) : (
-                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
                         {collections.map((collection) => (
-                            <div key={collection.id} className='relative group'>
+                            <div
+                                key={collection.id}
+                                className='relative group h-full'>
                                 <Link
                                     href={`/my-collections/${collection.id}`}
-                                    className='block bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-4 hover:border-cyan-500 transition-colors'>
+                                    className='bg-gradient-to-b card-dark border-2 border-dark rounded-lg p-4 hover:border-cyan-500 transition-colors flex flex-col h-full'>
                                     <div className='flex justify-between items-start mb-3 gap-2'>
                                         <h3 className='text-lg font-bold text-yellow-400 group-hover:text-yellow-300 transition-colors break-words min-w-0 flex-1'>
                                             {collection.name}
@@ -210,24 +212,29 @@ export default function CollectionsClient({ user }: { user: User }) {
                                             </span>
                                         )}
                                     </div>
-                                    {collection.description && (
-                                        <p className='text-sm text-gray-700 dark:text-gray-400 mb-3 line-clamp-2 break-words'>
-                                            {collection.description}
-                                        </p>
-                                    )}
-                                    <div className='flex justify-between items-center text-sm'>
-                                        <span className='text-gray-700 dark:text-gray-400 flex items-center gap-1'>
-                                            📦 {collection.loadout_count || 0}{" "}
-                                            {collection.loadout_count === 1
-                                                ? "loadout"
-                                                : "loadouts"}
-                                        </span>
+                                    <div className='mb-3 min-h-[3rem]'>
+                                        {collection.description && (
+                                            <p className='text-sm text-gray-700 dark:text-gray-400 line-clamp-2 break-words'>
+                                                {collection.description}
+                                            </p>
+                                        )}
                                     </div>
-                                    <div className='text-xs text-gray-600 dark:text-gray-500 mt-2'>
-                                        Created{" "}
-                                        {new Date(
-                                            collection.created_at
-                                        ).toLocaleDateString()}
+                                    <div className='mt-auto'>
+                                        <div className='flex justify-between items-center text-sm mb-2'>
+                                            <span className='text-gray-700 dark:text-gray-400 flex items-center gap-1'>
+                                                📦{" "}
+                                                {collection.loadout_count || 0}{" "}
+                                                {collection.loadout_count === 1
+                                                    ? "loadout"
+                                                    : "loadouts"}
+                                            </span>
+                                        </div>
+                                        <div className='text-xs text-gray-600 dark:text-gray-500'>
+                                            Created{" "}
+                                            {new Date(
+                                                collection.created_at
+                                            ).toLocaleDateString()}
+                                        </div>
                                     </div>
                                 </Link>
                                 <button

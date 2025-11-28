@@ -106,7 +106,7 @@ export default function FavoritesClient({
     }
 
     return (
-        <div className='max-w-[1400px] mx-auto w-full p-4'>
+        <div className='max-w-7xl mx-auto w-full p-4'>
             <div className='mb-6'>
                 <h1 className='text-2xl sm:text-3xl font-bold text-foreground mb-2'>
                     My Favorites

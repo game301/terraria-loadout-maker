@@ -280,7 +280,7 @@ export default function PublicCollectionViewer({
 
     return (
         <div className='min-h-screen terraria-bg'>
-            <div className='max-w-[1400px] mx-auto w-full p-4'>
+            <div className='max-w-7xl mx-auto w-full p-4'>
                 {/* Header */}
                 <div className='mb-6'>
                     <div className='flex flex-col lg:flex-row justify-between items-start gap-4'>

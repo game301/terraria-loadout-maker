@@ -6,6 +6,7 @@ import type { User } from "@supabase/supabase-js"
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import YouTubeEmbed from "@/components/YouTubeEmbed"
+import { getBossOrder } from "@/lib/terraria/bosses"
 
 interface Collection {
     id: string
@@ -326,64 +327,6 @@ export default function CollectionViewer({
         return Array.from(mods)
     }
 
-    // Boss order for sorting
-    const bossOrder = [
-        "King Slime",
-        "Eye of Cthulhu",
-        "Eater of Worlds",
-        "Brain of Cthulhu",
-        "Queen Bee",
-        "Skeletron",
-        "Deerclops",
-        "Wall of Flesh",
-        "Queen Slime",
-        "The Twins",
-        "The Destroyer",
-        "Skeletron Prime",
-        "Plantera",
-        "Golem",
-        "Duke Fishron",
-        "Empress of Light",
-        "Lunatic Cultist",
-        "Moon Lord",
-        // Calamity bosses
-        "Desert Scourge",
-        "Crabulon",
-        "The Hive Mind",
-        "The Perforators",
-        "The Slime God",
-        "Cryogen",
-        "Aquatic Scourge",
-        "Brimstone Elemental",
-        "Calamitas Clone",
-        "Leviathan and Anahita",
-        "Astrum Aureus",
-        "The Plaguebringer Goliath",
-        "Ravager",
-        "Astrum Deus",
-        "Profaned Guardians",
-        "Providence",
-        "Storm Weaver",
-        "Ceaseless Void",
-        "Signus",
-        "Polterghast",
-        "Old Duke",
-        "The Devourer of Gods",
-        "Yharon",
-        "Supreme Calamitas",
-        "Exo Mechs",
-    ]
-
-    const getBossOrder = (boss: string | null | undefined) => {
-        if (!boss) return 999
-        const index = bossOrder.findIndex(
-            (b) =>
-                boss.toLowerCase().includes(b.toLowerCase()) ||
-                b.toLowerCase().includes(boss.toLowerCase())
-        )
-        return index === -1 ? 999 : index
-    }
-
     // Sort loadouts based on selected criteria
     const sortedLoadouts = useMemo(() => {
         const items = [...loadouts]
@@ -478,7 +421,7 @@ export default function CollectionViewer({
 
     return (
         <div className='min-h-screen terraria-bg'>
-            <div className='max-w-[1400px] mx-auto w-full p-4'>
+            <div className='max-w-7xl mx-auto w-full p-4'>
                 {/* Header */}
                 <div className='mb-6'>
                     <div className='flex flex-col lg:flex-row justify-between items-start gap-4'>
