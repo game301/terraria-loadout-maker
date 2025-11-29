@@ -5555,307 +5555,300 @@
   },
   {
     "id": 100730,
-    "name": "Seared Pan",
-    "type": "weapon",
-    "rarity": 0,
-    "mod": "calamity"
-  },
-  {
-    "id": 100731,
     "name": "Seraphim",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100732,
+    "id": 100731,
     "name": "Shard of Antumbra",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100733,
+    "id": 100732,
     "name": "Shattered Sun",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100734,
+    "id": 100733,
     "name": "Shinobi Blade",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100735,
+    "id": 100734,
     "name": "Shock Grenade",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100736,
+    "id": 100735,
     "name": "Sky Stabber",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100737,
+    "id": 100736,
     "name": "Skyfin Bombers",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100738,
+    "id": 100737,
     "name": "Slick Cane",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100739,
+    "id": 100738,
     "name": "Sludge Splotch",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100740,
+    "id": 100739,
     "name": "Snap Clam",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100741,
+    "id": 100740,
     "name": "Spear of Destiny",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100742,
+    "id": 100741,
     "name": "Spear of Paleolith",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100743,
+    "id": 100742,
     "name": "Spent Fuel Container",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100744,
+    "id": 100743,
     "name": "Star of Destruction",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100745,
+    "id": 100744,
     "name": "Stellar Knife",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100746,
+    "id": 100745,
     "name": "Sticky Spiky Ball",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100747,
+    "id": 100746,
     "name": "Stormfront Razor",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100748,
+    "id": 100747,
     "name": "Subduction Slicer",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100749,
+    "id": 100748,
     "name": "Supernova",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100750,
+    "id": 100749,
     "name": "System Bane",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100751,
+    "id": 100750,
     "name": "Tarragon Throwing Dart",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100752,
+    "id": 100751,
     "name": "Terror Talons",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100753,
+    "id": 100752,
     "name": "The Atom Splitter",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100754,
+    "id": 100753,
     "name": "The Final Dawn",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100755,
+    "id": 100754,
     "name": "The Old Reaper",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100756,
+    "id": 100755,
     "name": "The Syringe",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100757,
+    "id": 100756,
     "name": "Throwing Brick",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100758,
+    "id": 100757,
     "name": "Time Bolt",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100759,
+    "id": 100758,
     "name": "Titanium Shuriken",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100760,
+    "id": 100759,
     "name": "Tooth Ball",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100761,
+    "id": 100760,
     "name": "Totality Breakers",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100762,
+    "id": 100761,
     "name": "Toxicant Twister",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100763,
+    "id": 100762,
     "name": "Tracking Disk",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100764,
+    "id": 100763,
     "name": "Turbulance",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100765,
+    "id": 100764,
     "name": "Twisting Thunder",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100766,
+    "id": 100765,
     "name": "Urchin Stinger",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100767,
+    "id": 100766,
     "name": "Utensil Poker",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100768,
+    "id": 100767,
     "name": "Valediction",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100769,
+    "id": 100768,
     "name": "Wave Pounder",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100770,
+    "id": 100769,
     "name": "Wave Skipper",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100771,
+    "id": 100770,
     "name": "Web Ball",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100772,
+    "id": 100771,
     "name": "Wrathwing",
     "type": "weapon",
     "rarity": 0,
     "mod": "calamity"
   },
   {
-    "id": 100773,
+    "id": 100772,
     "name": "Wulfrum Knife",
     "type": "weapon",
     "rarity": 0,
